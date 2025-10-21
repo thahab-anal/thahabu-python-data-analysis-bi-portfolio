@@ -1,0 +1,1 @@
+Create a function to check whether a given word or phrase is a palindrome (reads the same backward as forward).
