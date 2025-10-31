@@ -1,1 +1,0 @@
-Write a function to determine if a given number is prime.
