@@ -2,7 +2,7 @@
 I’m Thahabu
 
 Welcome to my Analysis Projects!  
-This space showcases my work in **python, data analysis, SQL, and business intelligence**, focusing on transforming raw data into meaningful insights.
+This space showcases my work in **python, data analysis,Hypothesis Testing, SQL, and business intelligence**, focusing on transforming raw data into meaningful insights.
 
 - 🔭 I’m currently working on: buiding my portfolio with my skills in **Python, SQL, and Business Intelligence Tools**
 - 👯 I’m looking to collaborate on: **Data visualization and cloud-based analytics projects**
