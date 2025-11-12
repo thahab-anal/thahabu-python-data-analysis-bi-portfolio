@@ -73,15 +73,20 @@ Visualization	Purpose
 🗺️ Map	Top 5 Countries by Average Sales
 🥧 Pie Chart	Sales by Segment
 
-### 5 🧩 Key Learnings
+### 5️⃣ 🧩 Key Learnings
 
 How to make any row a header dynamically using Power Query M.
-Cleaning, transforming, and modeling data for analytics.
+
+Cleaning, transforming, and modeling data efficiently.
+
 Writing DAX calculated columns and measures.
+
 Building visuals for storytelling and insights.
 
-### 6 🧰 Tools Used
+### 6️⃣ 🧰 Tools Used
 
 Power BI Desktop
+
 Power Query
+
 DAX (Data Analysis Expressions)
