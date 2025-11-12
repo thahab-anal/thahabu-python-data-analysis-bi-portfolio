@@ -41,15 +41,16 @@ let
     output = Table.RenameColumns(Source, List.Zip({Table.ColumnNames(Source), HeaderList}))
 in
     output
-
+```
 🧹 Remove the Duplicate Header Row from Data
+```m
 let
     Source = #"Renamed Column Names",
     HeaderRowIndex = List.PositionOf(Table.Column(Source, "Order ID"), "Order ID"),
     Output = Table.RemoveRows(Source, HeaderRowIndex)
 in
     Output
-
+```
 ### 3️⃣ Data Modeling
 
 Changed data types appropriately.
