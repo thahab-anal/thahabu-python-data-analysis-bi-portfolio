@@ -1,0 +1,1 @@
+This folder contains real-world SQL challenges using Google BigQuery public datasets.
