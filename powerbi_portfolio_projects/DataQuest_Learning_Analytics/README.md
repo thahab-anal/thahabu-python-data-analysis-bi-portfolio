@@ -1,92 +1,130 @@
-# 📊 Superstore Sales - Beginner Power BI Project
+# DATAQUEST Learning Analytics
 
-## 🧠 Project Overview
-This project is part of my **Data Analytics Portfolio** and demonstrates how to model, clean, and visualize data using **Microsoft Power BI**.  
-The goal is to explore company sales data and uncover insights such as total revenue, profit distribution, and market performance.
+## Project Summary
+This project analyzes lesson completions, survey reponse scores  to understand learner engagement, course quality, opputunities of improvement.
 
----
-
-## 📂 Source
-**File:** `superstore data.csv`  
-**Path:**  `thahabu-python-data-analysis-bi-portfolio/powerbi_portfolio_projects/superstore_sales_basic_level/`
-
+## Source File
+- **Files:** course_lessons.csv, lesson_progress.csv, nps_data.csv
+  **Path:**  `\thahabu-python-data-analysis-bi-portfolio\powerbi_portfolio_projects\DataQuest_Learning_Analytics`
+- **Data Description:** Columns include CourseID, Lesson ID, Course Completion status, Course started date, Survey response score.
+- **Tool Used:** Power BI
 ---
 
 ## 🎯 Business Questions to Answer
 
-1. What were the total sales for the company?  
-2. Which market generated the most sales on average?  
-3. What were the profits by segment, and which segment had the most profit?
+Which lessons drive positive or negative learner experience
+Which lessons require improvement based on NPS and completion rates
+How response distribution affects the reliability of NPS
+Patterns in course popularity and completion behavior
+Data-driven recommendations to improve overall learning outcomes
 
 ---
 
 ## 🪄 Steps Followed
 
-### 1️⃣ Data Import
-- Imported the `superstore data.csv` dataset into **Power BI Desktop**.
+### Data Import and transformation (Power Query)
+- Imported the datasets course_lessons.csv, nps_data.csv, lesson_progress.csv
+- Promoted Headers
+- Coverted datatype of lesson_id as Text
+- Replaced Lesson ID null with 1 in course_lessons.csv
+- Removed duplicate rows in lesson_progress
+- Removed Rows with Lesson_id null in lesson_progress and nps dataset in powerquery.
 ---
 
-### 2️⃣ Data Transformation (Power Query)
-- Adjusted headers and cleaned the dataset.
-- **Challenge:** Power BI’s default “Use First Row as Headers” only promotes the first row,  
-  but here we needed to dynamically promote a *specific row* as headers.
+### Data Modeling
+Created data model by joining lessonId of course_lessons with lesson_progress and nps  dataset.
+Created another Table using DAX and Joined lessonID of this new table with course_lesson table and maintained reliable integrity
+Created necessary DAX measures(Listed key measures below)
 
-#### 💡 Solution: Promote a Dynamic Header Row
-```m
-let
-    Source = #"Changed Type",
-    HeaderRowIndex = List.PositionOf(Table.Column(Source, "Column1"), "Order ID"),
-    HeaderRow = Table.Range(#"Changed Type", 1, 1),
-    HeaderList = Record.ToList(HeaderRow{0}),
-    output = Table.RenameColumns(Source, List.Zip({Table.ColumnNames(Source), HeaderList}))
-in
-    output
-```
-🧹 Remove the Duplicate Header Row from Data
-```m
-let
-    Source = #"Renamed Column Names",
-    HeaderRowIndex = List.PositionOf(Table.Column(Source, "Order ID"), "Order ID"),
-    Output = Table.RemoveRows(Source, HeaderRowIndex)
-in
-    Output
-```
-### 3️⃣ Data Modeling
-
-Changed data types appropriately.
-
-Created calculated columns:
-Year = YEAR('Orders'[Order Date])
-Month = FORMAT('Orders'[Order Date], "MMM")
-
-Created DAX measures:
-Total Sales = SUM('Orders'[Sales])
-Net Profit 2016 = CALCULATE(SUM('Orders'[Profit]), YEAR('Orders'[Order Date]) = 2016)
-
-### 4️⃣ Visualizations
+### Visualizations
 
 Built an interactive Power BI report with the following visuals:
 
-Visualization	Purpose
-📈 Line Chart	Total Sales by Year
-📊 Table	Category-wise Sales
-🗺️ Map	Top 5 Countries by Average Sales
-🥧 Pie Chart	Sales by Segment
+KPI Cards for completion rate ,lesson completion metrics, Total Survey responses, Overall NPS
+Line Chart to show Completion rate over time, and NPS score by Time
+Scatter Plot to show How correlated course popularity and completion rate, also between NPS Score and Number of responses
+Distribution buckets of completion rate and Score distributions through Histogram
+Table details about the lesson ID and Top and bottom performing lessons
 
-### 5️⃣ 🧩 Key Learnings
+### Key Learnings
 
-How to make any row a header dynamically using Power Query M.
+How to create DAX summary table
+How to create Top/Bottom Rank with dynamic ranking through filters.
+How to create bins
 
-Cleaning, transforming, and modeling data efficiently.
-
-Writing DAX calculated columns and measures.
-
-Building visuals for storytelling and insights.
-
-### 6️⃣ 🧰 Tools Used
+### Tools Used
 
 Power BI Desktop
-
 Power Query
-
 DAX (Data Analysis Expressions)
+
+
+### Key DAX Measures
+
+lesson_completion_rate DAX Table:
+
+```DAX
+lesson_completion_rate = 
+SUMMARIZE(lesson_progress,
+lesson_progress[lesson_id],
+"total_starts",COUNTROWS(lesson_progress),
+"total_completes",COALESCE(CALCULATE(COUNTROWS(lesson_progress),lesson_progress[is_complete]=True),0))
+```
+
+Completion Rate
+
+``` DAX
+Completion_rate = DIVIDE(CALCULATE(COUNTROWS(lesson_progress),lesson_progress[is_complete] = TRUE),COUNTROWS(lesson_progress))
+```
+Lesson Completions
+``` DAX
+Lesson Completions = CALCULATE(COUNTROWS(lesson_progress),lesson_progress[is_complete]=TRUE)
+```
+NPS
+
+``` DAX
+NPS = DIVIDE([Promoters] -[Detractors],COUNTROWS(nps_data),0)
+```
+
+NPS Group
+``` DAX
+NPS Group = 
+VAR score = nps_data[score]
+RETURN SWITCH (TRUE(), score<=6,"Detractors",
+nps_data[score]<=8,"Passives",
+nps_data[score]<=10,"Promoters")
+```
+
+NPS RANK
+
+``` DAX
+NPS RANK = 
+VAR CurrentLessonID = SELECTEDVALUE(course_lessons[lesson_id])
+VAR CurrentNPS = [NPS]
+RETURN
+IF(
+    NOT(ISBLANK(CurrentLessonID)) && NOT(ISBLANK(CurrentNPS)) && [Percentage of Total Response]>0.01,
+    RANKX(
+        FILTER( ALL(course_lessons[lesson_id]),
+                VAR CurrentLessonID = course_lessons[lesson_id]
+                VAR CurrentNPS = CALCULATE([NPS])
+                RETURN(NOT(ISBLANK(CurrentLessonID)) && NOT(ISBLANK(CurrentNPS)) && [Percentage of Total Response]>0.01)),
+                CALCULATE([NPS]),
+                ,
+                ASC,
+                Dense),
+    BLANK())
+```
+Percentage of Total Response
+``` DAX
+Percentage of Total Response = DIVIDE(COUNT(nps_data[response_id]),CALCULATE(COUNT(nps_data[response_id]),ALL(nps_data)),0)
+``` 
+
+Response RANK
+
+```
+Response RANK = 
+RANKX(ALL(course_lessons[lesson_id]),
+    CALCULATE(COUNT(nps_data[response_id])),
+    ,ASC,DENSE)
+```
