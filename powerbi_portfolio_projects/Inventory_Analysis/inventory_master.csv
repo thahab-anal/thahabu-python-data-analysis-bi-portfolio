@@ -1,0 +1,684 @@
+ItemID,Category,ItemName,Vendor,Location,Status,Quantity,UnitCost,TotalValue,ReorderPoint,ReorderQuantity,LeadTimeDays,LastOrderDate,PurchaseDate,WarrantyMonths,Department
+ITEM1000,Laptops,LG Laptops 8552,LG,Branch-NY,In Stock,43,340,14620,24,40,31,2024-02-28,2022-04-06,36,Engineering
+ITEM1001,Laptops,ASUS Laptops 4444,ASUS,Remote-Stock,Under Repair,98,594,58212,12,48,6,2024-04-12,2024-09-29,36,Marketing
+ITEM1002,Laptops,Apple Laptops 2118,Apple,HQ-Warehouse,In Transit,70,1888,132160,14,56,11,2024-07-11,2024-02-18,24,Marketing
+ITEM1003,Laptops,Microsoft Laptops 8668,Microsoft,Branch-LA,In Transit,20,248,4960,14,53,26,2024-01-31,2024-04-21,36,Engineering
+ITEM1004,Laptops,Dell Laptops 7425,Dell,HQ-Warehouse,Under Repair,6,621,3726,13,66,11,2024-08-13,2022-03-04,48,HR
+ITEM1005,Laptops,LG Laptops 1096,LG,Branch-LA,In Stock,39,132,5148,7,26,33,2024-05-28,2024-02-12,36,HR
+ITEM1006,Laptops,LG Laptops 5488,LG,Branch-LA,Obsolete,15,807,12105,19,29,27,2024-08-09,2022-08-31,12,Operations
+ITEM1007,Laptops,Logitech Laptops 4874,Logitech,Branch-Chicago,Under Repair,69,492,33948,23,69,16,2024-08-15,2022-11-28,12,Engineering
+ITEM1008,Laptops,Cisco Laptops 9466,Cisco,Branch-Chicago,In Transit,2,1955,3910,24,58,15,2024-08-14,2023-11-14,48,Marketing
+ITEM1009,Laptops,ASUS Laptops 8261,ASUS,Branch-NY,In Stock,58,754,43732,8,45,15,2024-07-12,2024-08-28,48,HR
+ITEM1010,Laptops,Microsoft Laptops 1848,Microsoft,Remote-Stock,In Transit,58,1790,103820,14,36,12,2024-10-19,2024-07-15,48,Operations
+ITEM1011,Laptops,LG Laptops 2869,LG,Branch-LA,Under Repair,56,1285,71960,14,37,14,2024-08-12,2022-11-22,24,IT
+ITEM1012,Laptops,Samsung Laptops 8249,Samsung,Branch-LA,Obsolete,98,1932,189336,20,27,7,2024-04-17,2022-10-06,48,HR
+ITEM1013,Laptops,Apple Laptops 2763,Apple,Branch-Seattle,Obsolete,69,636,43884,21,42,29,2024-04-07,2022-04-01,24,Finance
+ITEM1014,Laptops,LG Laptops 9970,LG,HQ-Warehouse,In Stock,5,698,3490,8,58,26,2024-09-05,2023-02-06,48,Engineering
+ITEM1015,Laptops,Logitech Laptops 6877,Logitech,Branch-Seattle,Obsolete,66,631,41646,11,47,21,2024-01-13,2022-07-26,12,Finance
+ITEM1016,Laptops,Samsung Laptops 1309,Samsung,Remote-Stock,In Stock,89,1110,98790,16,53,33,2024-03-12,2023-10-26,12,Sales
+ITEM1017,Laptops,Dell Laptops 7511,Dell,Branch-Seattle,In Stock,19,794,15086,20,42,14,2024-07-01,2023-05-10,36,HR
+ITEM1018,Laptops,Apple Laptops 7604,Apple,Branch-NY,In Stock,87,437,38019,17,39,29,2024-06-18,2023-08-01,12,Engineering
+ITEM1019,Laptops,Cisco Laptops 5121,Cisco,HQ-Warehouse,Under Repair,39,1036,40404,15,48,27,2024-10-23,2024-02-10,48,Finance
+ITEM1020,Laptops,ASUS Laptops 4968,ASUS,Branch-Seattle,Under Repair,71,554,39334,17,64,5,2024-06-05,2024-06-23,48,Sales
+ITEM1021,Laptops,Dell Laptops 2636,Dell,Branch-Seattle,In Stock,96,1625,156000,17,56,21,2024-06-22,2023-05-27,48,Marketing
+ITEM1022,Laptops,Microsoft Laptops 9920,Microsoft,Branch-LA,Out of Stock,0,162,0,19,43,21,2024-10-18,2023-01-11,36,Finance
+ITEM1023,Laptops,Logitech Laptops 4709,Logitech,Branch-NY,Out of Stock,0,2040,0,20,66,18,2024-10-29,2023-08-08,48,Engineering
+ITEM1024,Laptops,Logitech Laptops 9520,Logitech,Branch-NY,Under Repair,34,1679,57086,17,23,28,2024-06-17,2022-08-02,24,Operations
+ITEM1025,Laptops,Cisco Laptops 4906,Cisco,HQ-Warehouse,Allocated,46,662,30452,8,54,29,2024-05-03,2024-07-14,24,HR
+ITEM1026,Laptops,Dell Laptops 1674,Dell,Remote-Stock,Under Repair,43,1792,77056,12,35,7,2024-03-26,2022-02-15,12,Marketing
+ITEM1027,Laptops,Apple Laptops 7590,Apple,Branch-Chicago,In Stock,74,1311,97014,7,27,33,2024-03-27,2023-08-05,12,Operations
+ITEM1028,Laptops,Microsoft Laptops 2486,Microsoft,Branch-NY,Under Repair,1,1734,1734,24,31,27,2024-06-25,2023-04-12,12,Sales
+ITEM1029,Laptops,Samsung Laptops 2702,Samsung,Branch-Seattle,In Stock,12,1075,12900,8,57,33,2024-09-20,2024-08-20,24,Marketing
+ITEM1030,Laptops,ASUS Laptops 8622,ASUS,Remote-Stock,Out of Stock,0,1412,0,17,65,25,2024-07-14,2022-11-05,12,Engineering
+ITEM1031,Laptops,HP Laptops 1517,HP,Branch-NY,In Transit,38,582,22116,7,52,6,2024-04-23,2023-07-11,24,Sales
+ITEM1032,Laptops,Cisco Laptops 2518,Cisco,Branch-NY,In Stock,13,171,2223,9,35,20,2024-07-16,2022-12-29,48,Operations
+ITEM1033,Laptops,Microsoft Laptops 6276,Microsoft,Remote-Stock,Allocated,65,1318,85670,14,35,11,2024-01-27,2023-05-19,36,Sales
+ITEM1034,Laptops,Samsung Laptops 2392,Samsung,Remote-Stock,In Stock,69,1327,91563,7,63,18,2024-01-10,2024-05-28,12,Sales
+ITEM1035,Laptops,Lenovo Laptops 1677,Lenovo,Branch-NY,Out of Stock,0,2048,0,9,57,22,2024-05-17,2022-10-20,48,Operations
+ITEM1036,Laptops,Cisco Laptops 8057,Cisco,Branch-Seattle,Out of Stock,0,1583,0,17,67,12,2024-10-07,2022-01-24,36,Marketing
+ITEM1037,Laptops,Logitech Laptops 1375,Logitech,HQ-Warehouse,In Transit,100,837,83700,16,55,8,2024-05-18,2024-05-30,48,IT
+ITEM1038,Laptops,Lenovo Laptops 4326,Lenovo,HQ-Warehouse,In Stock,46,512,23552,13,56,27,2024-02-02,2024-06-14,12,Operations
+ITEM1039,Laptops,Cisco Laptops 5891,Cisco,Branch-Seattle,Under Repair,99,1129,111771,20,63,34,2024-01-07,2023-02-06,48,Operations
+ITEM1040,Laptops,Dell Laptops 5485,Dell,Branch-Chicago,In Stock,15,735,11025,10,59,24,2024-02-09,2024-06-09,36,IT
+ITEM1041,Laptops,Lenovo Laptops 7995,Lenovo,Branch-Seattle,In Stock,61,331,20191,5,21,12,2024-03-10,2022-07-24,12,Operations
+ITEM1042,Laptops,Samsung Laptops 8004,Samsung,Remote-Stock,In Transit,54,961,51894,18,36,21,2024-10-07,2024-02-26,36,Engineering
+ITEM1043,Laptops,Microsoft Laptops 4877,Microsoft,Branch-LA,Allocated,63,1139,71757,23,63,6,2024-10-22,2022-06-05,48,Sales
+ITEM1044,Laptops,Microsoft Laptops 3913,Microsoft,Branch-Chicago,Out of Stock,0,1412,0,13,67,33,2024-04-02,2024-05-20,48,Operations
+ITEM1045,Laptops,Apple Laptops 6444,Apple,Branch-Seattle,In Stock,61,1044,63684,21,33,26,2024-04-14,2024-07-28,48,HR
+ITEM1046,Laptops,Dell Laptops 1067,Dell,Remote-Stock,In Transit,16,2002,32032,13,25,33,2024-01-05,2022-04-16,24,Engineering
+ITEM1047,Laptops,Microsoft Laptops 3642,Microsoft,Branch-NY,In Transit,50,1250,62500,15,35,22,2024-10-10,2023-11-23,48,IT
+ITEM1048,Laptops,HP Laptops 1077,HP,Branch-LA,In Stock,31,911,28241,18,54,8,2024-10-10,2024-03-21,36,Marketing
+ITEM1049,Laptops,Dell Laptops 4103,Dell,Branch-Chicago,In Transit,18,358,6444,19,26,9,2024-04-14,2022-01-05,36,Operations
+ITEM1050,Laptops,Samsung Laptops 1000,Samsung,Branch-Seattle,Obsolete,80,1647,131760,8,52,15,2024-07-03,2023-12-12,36,HR
+ITEM1051,Laptops,Logitech Laptops 6649,Logitech,Branch-Chicago,Obsolete,94,1296,121824,13,22,7,2024-05-07,2023-03-07,12,Operations
+ITEM1052,Laptops,Microsoft Laptops 5427,Microsoft,Branch-Chicago,In Stock,44,2097,92268,12,47,33,2024-05-22,2023-03-05,24,Operations
+ITEM1053,Laptops,ASUS Laptops 3565,ASUS,Branch-Seattle,Allocated,72,2056,148032,20,56,24,2024-08-28,2023-09-09,12,Engineering
+ITEM1054,Laptops,Samsung Laptops 6241,Samsung,HQ-Warehouse,Out of Stock,0,1706,0,12,64,9,2024-03-22,2023-03-24,24,HR
+ITEM1055,Laptops,Logitech Laptops 6184,Logitech,Branch-LA,In Transit,12,2051,24612,8,39,10,2024-03-03,2024-01-26,36,Finance
+ITEM1056,Laptops,Microsoft Laptops 4509,Microsoft,Remote-Stock,Under Repair,71,1655,117505,14,40,32,2024-06-04,2022-06-26,24,IT
+ITEM1057,Laptops,Cisco Laptops 1530,Cisco,Branch-NY,In Transit,55,551,30305,10,24,9,2024-09-11,2023-08-13,48,HR
+ITEM1058,Laptops,Microsoft Laptops 4396,Microsoft,Branch-Seattle,Allocated,99,415,41085,15,22,14,2024-04-17,2022-06-20,12,Sales
+ITEM1059,Laptops,LG Laptops 3047,LG,Branch-LA,Out of Stock,0,554,0,13,54,17,2024-02-02,2024-06-03,24,Sales
+ITEM1060,Laptops,Samsung Laptops 7153,Samsung,Branch-Chicago,In Stock,20,1654,33080,7,52,11,2024-01-20,2024-02-21,48,Sales
+ITEM1061,Laptops,Lenovo Laptops 6559,Lenovo,Branch-LA,In Transit,54,1383,74682,12,58,6,2024-07-15,2023-12-16,12,Engineering
+ITEM1062,Laptops,Logitech Laptops 4494,Logitech,Branch-Chicago,In Stock,6,892,5352,6,62,16,2024-02-26,2023-03-11,12,HR
+ITEM1063,Laptops,HP Laptops 4768,HP,Branch-LA,In Stock,93,684,63612,23,26,28,2024-01-19,2023-04-14,48,Engineering
+ITEM1064,Laptops,Dell Laptops 4208,Dell,Branch-Seattle,Allocated,6,579,3474,10,32,34,2024-05-10,2023-06-09,12,Marketing
+ITEM1065,Laptops,HP Laptops 8808,HP,Branch-Seattle,In Stock,66,1661,109626,24,38,6,2024-01-02,2023-08-06,24,IT
+ITEM1066,Laptops,Logitech Laptops 3385,Logitech,Branch-LA,Under Repair,21,1432,30072,5,42,8,2024-10-05,2022-11-14,12,HR
+ITEM1067,Laptops,Lenovo Laptops 2286,Lenovo,Branch-Seattle,Obsolete,80,889,71120,22,55,34,2024-09-12,2022-02-21,48,Finance
+ITEM1068,Laptops,Cisco Laptops 8549,Cisco,Remote-Stock,In Transit,100,1624,162400,21,64,5,2024-09-17,2022-03-27,48,IT
+ITEM1069,Laptops,Apple Laptops 8820,Apple,Remote-Stock,Out of Stock,0,628,0,12,27,28,2024-09-18,2024-05-07,48,Sales
+ITEM1070,Laptops,Samsung Laptops 8983,Samsung,Branch-NY,Allocated,18,2088,37584,20,68,23,2024-09-07,2024-07-29,48,Sales
+ITEM1071,Laptops,HP Laptops 3748,HP,Branch-Seattle,Out of Stock,0,1645,0,24,56,30,2024-08-16,2022-08-22,36,Engineering
+ITEM1072,Desktops,LG Desktops 6866,LG,Branch-Chicago,In Stock,50,496,24800,5,47,5,2024-04-21,2023-06-03,36,Marketing
+ITEM1073,Desktops,Apple Desktops 9669,Apple,HQ-Warehouse,In Stock,66,222,14652,15,55,10,2024-03-15,2023-11-01,48,Sales
+ITEM1074,Desktops,ASUS Desktops 2817,ASUS,Branch-NY,Allocated,46,302,13892,9,49,8,2024-08-17,2022-10-22,36,Engineering
+ITEM1075,Desktops,Dell Desktops 5636,Dell,Remote-Stock,Allocated,35,464,16240,15,26,14,2024-09-28,2022-09-17,24,IT
+ITEM1076,Desktops,Lenovo Desktops 8447,Lenovo,Branch-LA,Under Repair,66,1954,128964,20,24,20,2024-03-24,2024-09-02,12,Operations
+ITEM1077,Desktops,Microsoft Desktops 8646,Microsoft,Remote-Stock,In Stock,10,1498,14980,10,49,13,2024-08-19,2022-01-08,24,Sales
+ITEM1078,Desktops,Cisco Desktops 3547,Cisco,Branch-Seattle,Allocated,37,930,34410,11,61,13,2024-03-19,2023-01-15,24,Finance
+ITEM1079,Desktops,Cisco Desktops 6115,Cisco,Branch-LA,Under Repair,15,1768,26520,24,42,30,2024-07-27,2023-07-11,36,Sales
+ITEM1080,Desktops,Apple Desktops 4502,Apple,Remote-Stock,Out of Stock,0,864,0,10,54,6,2024-01-20,2024-08-25,48,IT
+ITEM1081,Desktops,Cisco Desktops 4864,Cisco,Branch-Chicago,In Transit,11,391,4301,8,20,13,2024-08-16,2023-03-07,24,IT
+ITEM1082,Desktops,Logitech Desktops 7371,Logitech,Branch-LA,In Transit,71,1373,97483,21,57,5,2024-07-01,2022-12-22,24,IT
+ITEM1083,Desktops,LG Desktops 4282,LG,Remote-Stock,Obsolete,80,2056,164480,21,36,20,2024-01-15,2022-01-05,48,Operations
+ITEM1084,Desktops,Microsoft Desktops 9296,Microsoft,Branch-NY,Under Repair,63,1399,88137,9,45,25,2024-02-13,2022-08-23,12,Operations
+ITEM1085,Desktops,ASUS Desktops 7152,ASUS,HQ-Warehouse,In Stock,53,182,9646,11,59,28,2024-07-09,2024-07-23,48,Marketing
+ITEM1086,Desktops,ASUS Desktops 2964,ASUS,HQ-Warehouse,Obsolete,3,536,1608,5,23,8,2024-03-23,2024-05-15,36,HR
+ITEM1087,Desktops,Samsung Desktops 6440,Samsung,HQ-Warehouse,Obsolete,56,1189,66584,12,25,12,2024-10-09,2023-09-01,36,HR
+ITEM1088,Desktops,Lenovo Desktops 4845,Lenovo,Remote-Stock,Allocated,69,1316,90804,11,59,31,2024-09-23,2024-08-07,12,Operations
+ITEM1089,Desktops,Cisco Desktops 1979,Cisco,Branch-Seattle,In Transit,55,1728,95040,24,22,33,2024-02-05,2023-08-31,12,HR
+ITEM1090,Desktops,LG Desktops 7974,LG,Branch-LA,In Transit,23,1560,35880,15,54,27,2024-08-07,2024-05-06,36,IT
+ITEM1091,Desktops,HP Desktops 2037,HP,Branch-NY,Out of Stock,0,1650,0,17,64,13,2024-02-26,2023-08-03,48,IT
+ITEM1092,Desktops,HP Desktops 8829,HP,Remote-Stock,In Transit,55,263,14465,15,39,22,2024-07-22,2024-09-20,48,Finance
+ITEM1093,Desktops,Cisco Desktops 5733,Cisco,Branch-Seattle,Allocated,53,2025,107325,5,65,10,2024-06-05,2022-07-03,24,Sales
+ITEM1094,Desktops,Cisco Desktops 1061,Cisco,Remote-Stock,In Stock,19,2060,39140,6,46,5,2024-02-12,2022-03-18,12,Finance
+ITEM1095,Desktops,ASUS Desktops 4498,ASUS,Branch-LA,Allocated,55,1774,97570,17,48,22,2024-07-25,2024-06-24,12,Engineering
+ITEM1096,Desktops,Logitech Desktops 3101,Logitech,HQ-Warehouse,Under Repair,67,532,35644,23,44,33,2024-04-13,2023-01-23,24,Sales
+ITEM1097,Desktops,Samsung Desktops 1881,Samsung,Branch-Seattle,Under Repair,71,207,14697,18,22,18,2024-04-22,2023-04-02,24,HR
+ITEM1098,Desktops,Logitech Desktops 8369,Logitech,Branch-Chicago,In Transit,6,1468,8808,11,56,10,2024-02-15,2023-03-19,36,Finance
+ITEM1099,Desktops,Cisco Desktops 3243,Cisco,Branch-Chicago,Out of Stock,0,363,0,17,43,29,2024-10-20,2024-01-02,12,Operations
+ITEM1100,Desktops,HP Desktops 3409,HP,Remote-Stock,Obsolete,97,890,86330,18,40,18,2024-05-14,2023-06-16,36,IT
+ITEM1101,Desktops,Lenovo Desktops 8551,Lenovo,Remote-Stock,Under Repair,25,168,4200,24,50,8,2024-04-01,2022-12-11,12,HR
+ITEM1102,Desktops,Microsoft Desktops 1649,Microsoft,Branch-Seattle,Allocated,62,1400,86800,6,58,6,2024-04-04,2024-03-31,12,Sales
+ITEM1103,Desktops,HP Desktops 3682,HP,Branch-Chicago,Out of Stock,0,1869,0,12,51,18,2024-02-02,2023-11-02,12,IT
+ITEM1104,Desktops,Apple Desktops 7571,Apple,Branch-NY,In Stock,1,903,903,21,51,18,2024-06-14,2022-09-18,24,Engineering
+ITEM1105,Desktops,Lenovo Desktops 4085,Lenovo,Branch-Chicago,In Transit,3,233,699,13,31,22,2024-02-25,2022-12-04,24,Operations
+ITEM1106,Desktops,Logitech Desktops 1186,Logitech,Remote-Stock,Under Repair,92,1842,169464,24,50,13,2024-02-18,2022-06-16,36,Operations
+ITEM1107,Desktops,Dell Desktops 8576,Dell,Branch-Seattle,Obsolete,37,1667,61679,7,35,23,2024-10-17,2024-02-18,12,Marketing
+ITEM1108,Desktops,LG Desktops 6098,LG,Branch-Seattle,In Stock,44,752,33088,14,62,23,2024-02-12,2022-07-13,12,Engineering
+ITEM1109,Desktops,Apple Desktops 8359,Apple,Branch-LA,Obsolete,74,246,18204,16,38,18,2024-06-16,2022-03-22,36,HR
+ITEM1110,Desktops,HP Desktops 4002,HP,HQ-Warehouse,In Transit,70,678,47460,22,51,33,2024-08-23,2022-04-21,48,IT
+ITEM1111,Desktops,Lenovo Desktops 5667,Lenovo,Branch-Seattle,Allocated,31,711,22041,19,26,16,2024-08-17,2024-03-23,24,Sales
+ITEM1112,Desktops,Samsung Desktops 7704,Samsung,HQ-Warehouse,In Transit,100,1470,147000,23,21,33,2024-04-29,2022-09-25,48,IT
+ITEM1113,Desktops,Samsung Desktops 1721,Samsung,Branch-Chicago,Under Repair,98,278,27244,5,46,16,2024-08-28,2022-11-25,36,IT
+ITEM1114,Desktops,Dell Desktops 6929,Dell,Remote-Stock,In Stock,62,1606,99572,6,42,30,2024-08-06,2022-10-17,48,Engineering
+ITEM1115,Desktops,Microsoft Desktops 7268,Microsoft,Branch-Chicago,In Stock,66,1613,106458,23,66,16,2024-10-30,2024-02-26,36,Marketing
+ITEM1116,Desktops,LG Desktops 4164,LG,Remote-Stock,In Transit,15,554,8310,6,20,15,2024-04-07,2022-03-19,12,Marketing
+ITEM1117,Desktops,Dell Desktops 2722,Dell,Branch-Seattle,In Transit,60,671,40260,20,32,28,2024-09-20,2023-08-05,24,Engineering
+ITEM1118,Desktops,HP Desktops 8035,HP,Branch-NY,Allocated,1,2076,2076,9,27,33,2024-08-13,2023-02-04,48,Operations
+ITEM1119,Desktops,Microsoft Desktops 3482,Microsoft,Branch-Seattle,In Transit,2,1981,3962,16,63,11,2024-10-04,2023-08-22,36,Marketing
+ITEM1120,Desktops,HP Desktops 4920,HP,HQ-Warehouse,In Stock,55,278,15290,9,21,28,2024-04-26,2024-06-25,12,Marketing
+ITEM1121,Desktops,Logitech Desktops 2463,Logitech,Remote-Stock,Out of Stock,0,835,0,20,31,31,2024-05-01,2024-04-09,36,Finance
+ITEM1122,Desktops,LG Desktops 3374,LG,Branch-Seattle,In Stock,64,1448,92672,12,33,24,2024-05-14,2024-02-23,24,Sales
+ITEM1123,Desktops,HP Desktops 8749,HP,Branch-NY,Under Repair,96,1471,141216,15,27,31,2024-06-17,2022-03-11,24,Finance
+ITEM1124,Desktops,Microsoft Desktops 4569,Microsoft,Branch-Seattle,In Stock,97,273,26481,23,46,9,2024-02-25,2022-10-03,48,HR
+ITEM1125,Desktops,ASUS Desktops 5308,ASUS,Branch-Chicago,Under Repair,83,1752,145416,23,28,8,2024-01-14,2024-08-31,48,Marketing
+ITEM1126,Desktops,Cisco Desktops 2061,Cisco,HQ-Warehouse,Obsolete,62,2015,124930,21,60,10,2024-03-23,2024-02-25,48,IT
+ITEM1127,Monitors,Logitech Monitors 6106,Logitech,Remote-Stock,In Transit,11,2083,22913,24,25,11,2024-08-09,2023-02-17,24,Operations
+ITEM1128,Monitors,Dell Monitors 1126,Dell,Branch-Seattle,In Stock,73,1191,86943,24,56,21,2024-01-10,2022-11-09,12,HR
+ITEM1129,Monitors,Logitech Monitors 5442,Logitech,Branch-NY,In Transit,98,1866,182868,9,28,8,2024-10-08,2023-03-22,48,Engineering
+ITEM1130,Monitors,Samsung Monitors 2204,Samsung,Branch-NY,Obsolete,67,721,48307,12,65,17,2024-05-30,2023-08-16,36,HR
+ITEM1131,Monitors,Apple Monitors 8017,Apple,Branch-NY,In Stock,98,1864,182672,21,55,21,2024-08-13,2022-08-25,24,Engineering
+ITEM1132,Monitors,Logitech Monitors 4810,Logitech,Branch-Seattle,Under Repair,72,149,10728,16,24,5,2024-09-02,2024-02-04,48,Finance
+ITEM1133,Monitors,Microsoft Monitors 4273,Microsoft,Branch-LA,Allocated,84,879,73836,23,22,21,2024-02-01,2024-01-18,48,Finance
+ITEM1134,Monitors,Apple Monitors 7765,Apple,Branch-LA,Allocated,93,1131,105183,10,38,32,2024-04-13,2023-06-06,48,Marketing
+ITEM1135,Monitors,Microsoft Monitors 7132,Microsoft,Remote-Stock,In Transit,30,142,4260,21,41,10,2024-03-22,2023-04-03,36,Marketing
+ITEM1136,Monitors,Dell Monitors 2796,Dell,Branch-LA,In Stock,74,339,25086,6,59,12,2024-03-02,2022-09-24,12,Marketing
+ITEM1137,Monitors,LG Monitors 4924,LG,Branch-LA,In Stock,78,696,54288,18,48,10,2024-08-31,2022-06-23,36,IT
+ITEM1138,Monitors,Samsung Monitors 5198,Samsung,Remote-Stock,Obsolete,69,1862,128478,14,23,13,2024-07-26,2024-06-23,36,Operations
+ITEM1139,Monitors,ASUS Monitors 8544,ASUS,Branch-LA,Out of Stock,0,1510,0,7,63,12,2024-04-14,2024-07-27,48,Operations
+ITEM1140,Monitors,ASUS Monitors 3555,ASUS,Branch-Chicago,Out of Stock,0,1868,0,15,20,21,2024-10-24,2023-07-31,12,IT
+ITEM1141,Monitors,Dell Monitors 9521,Dell,Remote-Stock,In Transit,81,693,56133,7,25,16,2024-01-03,2022-09-03,12,Engineering
+ITEM1142,Monitors,ASUS Monitors 4715,ASUS,Branch-Seattle,In Transit,97,975,94575,20,64,29,2024-10-15,2023-06-21,48,IT
+ITEM1143,Monitors,HP Monitors 3593,HP,HQ-Warehouse,Obsolete,28,1630,45640,8,23,27,2024-02-18,2022-09-24,24,HR
+ITEM1144,Monitors,Lenovo Monitors 4672,Lenovo,Branch-NY,In Transit,56,1503,84168,24,44,18,2024-04-26,2022-04-24,48,Sales
+ITEM1145,Monitors,Logitech Monitors 4003,Logitech,Remote-Stock,Out of Stock,0,803,0,19,62,34,2024-02-29,2023-07-29,48,Engineering
+ITEM1146,Monitors,Apple Monitors 3057,Apple,Branch-LA,In Stock,59,162,9558,23,30,32,2024-01-03,2023-11-27,36,Operations
+ITEM1147,Monitors,LG Monitors 6945,LG,HQ-Warehouse,Allocated,55,1925,105875,9,46,28,2024-02-14,2023-03-12,36,HR
+ITEM1148,Monitors,Cisco Monitors 9472,Cisco,Branch-NY,Under Repair,28,1306,36568,19,50,18,2024-01-25,2024-06-23,12,Marketing
+ITEM1149,Monitors,Apple Monitors 2145,Apple,Branch-LA,Allocated,7,344,2408,18,28,28,2024-09-26,2023-08-22,36,Sales
+ITEM1150,Monitors,Apple Monitors 9895,Apple,Remote-Stock,Out of Stock,0,974,0,20,57,12,2024-10-07,2023-01-21,24,Engineering
+ITEM1151,Monitors,Cisco Monitors 4089,Cisco,Remote-Stock,Out of Stock,0,1983,0,20,55,16,2024-02-02,2024-09-11,48,Marketing
+ITEM1152,Monitors,Samsung Monitors 4426,Samsung,Remote-Stock,Out of Stock,0,1768,0,5,47,20,2024-05-03,2022-07-24,12,Sales
+ITEM1153,Monitors,LG Monitors 4637,LG,Branch-Chicago,Obsolete,56,867,48552,17,46,7,2024-02-12,2022-06-21,12,Operations
+ITEM1154,Monitors,Logitech Monitors 6572,Logitech,Branch-Chicago,In Stock,3,1868,5604,14,47,33,2024-03-03,2022-07-16,48,Operations
+ITEM1155,Monitors,Microsoft Monitors 9243,Microsoft,Remote-Stock,Under Repair,87,911,79257,10,58,25,2024-01-29,2023-05-19,24,IT
+ITEM1156,Monitors,Logitech Monitors 3495,Logitech,Branch-NY,In Stock,80,834,66720,16,50,10,2024-07-12,2022-08-27,24,IT
+ITEM1157,Monitors,Lenovo Monitors 4137,Lenovo,Branch-NY,Allocated,92,1434,131928,17,25,11,2024-09-16,2022-06-03,48,IT
+ITEM1158,Monitors,HP Monitors 1475,HP,Branch-LA,In Stock,88,334,29392,7,34,21,2024-07-13,2022-10-09,48,Finance
+ITEM1159,Monitors,ASUS Monitors 2644,ASUS,Branch-NY,In Stock,94,689,64766,14,35,7,2024-06-29,2022-04-09,24,HR
+ITEM1160,Monitors,Samsung Monitors 1599,Samsung,HQ-Warehouse,In Stock,84,228,19152,24,46,11,2024-04-01,2023-12-11,36,Sales
+ITEM1161,Monitors,LG Monitors 2770,LG,HQ-Warehouse,In Transit,5,1882,9410,13,38,25,2024-09-07,2023-07-23,24,Finance
+ITEM1162,Monitors,LG Monitors 1367,LG,HQ-Warehouse,Under Repair,30,239,7170,16,56,9,2024-02-29,2022-04-08,36,HR
+ITEM1163,Monitors,LG Monitors 1029,LG,Branch-Seattle,Allocated,78,878,68484,22,47,20,2024-10-30,2024-06-09,36,Finance
+ITEM1164,Monitors,Dell Monitors 4069,Dell,Branch-Chicago,Allocated,13,1992,25896,19,30,26,2024-09-04,2023-04-18,48,IT
+ITEM1165,Monitors,Microsoft Monitors 3648,Microsoft,Branch-LA,In Stock,4,1621,6484,15,56,5,2024-08-26,2022-11-30,24,Sales
+ITEM1166,Monitors,Logitech Monitors 2048,Logitech,Remote-Stock,Under Repair,94,909,85446,6,69,33,2024-08-07,2022-03-25,36,Sales
+ITEM1167,Monitors,Samsung Monitors 9505,Samsung,Branch-Seattle,In Stock,89,2056,182984,23,43,14,2024-01-13,2024-02-27,36,Operations
+ITEM1168,Monitors,HP Monitors 2173,HP,Branch-Chicago,Out of Stock,0,1917,0,11,25,19,2024-06-16,2023-08-25,36,Operations
+ITEM1169,Monitors,Dell Monitors 5770,Dell,Branch-LA,In Stock,20,1257,25140,18,65,18,2024-04-10,2024-04-06,48,Engineering
+ITEM1170,Monitors,HP Monitors 5128,HP,Branch-NY,Out of Stock,0,1789,0,23,55,7,2024-04-15,2024-06-07,36,Marketing
+ITEM1171,Monitors,HP Monitors 9741,HP,Branch-Seattle,Allocated,47,1950,91650,14,32,5,2024-05-13,2023-11-12,24,Operations
+ITEM1172,Monitors,Cisco Monitors 7354,Cisco,HQ-Warehouse,In Stock,44,894,39336,9,50,27,2024-07-16,2022-04-06,12,Sales
+ITEM1173,Monitors,ASUS Monitors 2240,ASUS,HQ-Warehouse,Out of Stock,0,1425,0,17,39,11,2024-04-17,2023-12-01,48,HR
+ITEM1174,Monitors,Dell Monitors 4523,Dell,Branch-LA,Allocated,13,1636,21268,5,36,21,2024-05-17,2024-01-31,12,HR
+ITEM1175,Monitors,Cisco Monitors 3236,Cisco,Branch-NY,In Stock,43,226,9718,7,47,26,2024-03-22,2023-05-29,36,Finance
+ITEM1176,Monitors,ASUS Monitors 4015,ASUS,Branch-Chicago,Allocated,14,1414,19796,18,65,26,2024-07-07,2022-05-11,12,Engineering
+ITEM1177,Monitors,ASUS Monitors 3983,ASUS,Remote-Stock,Out of Stock,0,1106,0,21,22,19,2024-02-11,2024-04-20,36,Sales
+ITEM1178,Monitors,Logitech Monitors 2809,Logitech,Remote-Stock,Allocated,97,1926,186822,20,60,11,2024-08-02,2022-08-09,12,Engineering
+ITEM1179,Keyboards,Logitech Keyboards 4609,Logitech,Branch-Chicago,Allocated,85,1757,149345,21,33,26,2024-02-02,2023-12-06,12,Sales
+ITEM1180,Keyboards,HP Keyboards 4735,HP,Remote-Stock,In Stock,88,699,61512,21,63,25,2024-07-14,2024-09-23,36,Sales
+ITEM1181,Keyboards,LG Keyboards 5150,LG,Branch-NY,Under Repair,44,1586,69784,23,48,12,2024-05-27,2024-04-05,24,HR
+ITEM1182,Keyboards,Microsoft Keyboards 2015,Microsoft,Branch-Seattle,In Transit,31,2036,63116,24,58,13,2024-02-22,2022-11-03,48,Marketing
+ITEM1183,Keyboards,Microsoft Keyboards 5105,Microsoft,Branch-LA,In Stock,26,646,16796,23,57,11,2024-05-28,2024-02-03,12,IT
+ITEM1184,Keyboards,HP Keyboards 5818,HP,Branch-Seattle,Obsolete,5,909,4545,15,23,28,2024-05-24,2024-08-11,12,HR
+ITEM1185,Keyboards,Cisco Keyboards 3646,Cisco,Remote-Stock,Obsolete,97,1867,181099,20,61,7,2024-07-29,2022-04-08,36,Operations
+ITEM1186,Keyboards,LG Keyboards 4848,LG,Branch-Seattle,Under Repair,67,1556,104252,18,36,21,2024-02-11,2022-01-22,48,IT
+ITEM1187,Keyboards,Logitech Keyboards 4790,Logitech,HQ-Warehouse,In Transit,25,1875,46875,9,51,6,2024-02-10,2023-05-26,36,HR
+ITEM1188,Keyboards,Lenovo Keyboards 3095,Lenovo,HQ-Warehouse,In Transit,99,864,85536,15,41,27,2024-08-14,2022-12-30,48,Engineering
+ITEM1189,Keyboards,Samsung Keyboards 1652,Samsung,Branch-NY,Out of Stock,0,1173,0,10,66,13,2024-02-11,2022-06-30,24,Finance
+ITEM1190,Keyboards,Apple Keyboards 5672,Apple,Branch-Seattle,Allocated,5,1202,6010,16,51,18,2024-05-04,2022-08-15,12,Operations
+ITEM1191,Keyboards,Dell Keyboards 5916,Dell,Branch-Seattle,In Transit,76,828,62928,13,66,30,2024-08-12,2023-11-09,12,IT
+ITEM1192,Keyboards,Logitech Keyboards 9931,Logitech,Branch-NY,Obsolete,38,634,24092,20,67,14,2024-10-03,2022-08-12,36,Operations
+ITEM1193,Keyboards,Logitech Keyboards 8166,Logitech,Branch-Seattle,In Transit,88,855,75240,13,37,12,2024-05-03,2023-04-29,12,Marketing
+ITEM1194,Keyboards,Microsoft Keyboards 2204,Microsoft,HQ-Warehouse,Obsolete,41,579,23739,16,27,8,2024-05-21,2023-02-22,12,Engineering
+ITEM1195,Keyboards,Lenovo Keyboards 6719,Lenovo,HQ-Warehouse,Allocated,18,732,13176,7,52,16,2024-10-15,2023-01-29,36,Engineering
+ITEM1196,Keyboards,ASUS Keyboards 9177,ASUS,Remote-Stock,Allocated,27,425,11475,10,45,11,2024-02-23,2022-09-06,12,HR
+ITEM1197,Keyboards,LG Keyboards 7296,LG,Branch-Seattle,Allocated,34,1673,56882,18,23,33,2024-08-06,2022-02-16,36,Sales
+ITEM1198,Keyboards,Cisco Keyboards 8965,Cisco,Branch-NY,Allocated,85,1494,126990,22,46,31,2024-02-09,2024-03-22,24,Sales
+ITEM1199,Keyboards,HP Keyboards 4294,HP,Branch-Chicago,Allocated,76,1199,91124,24,53,30,2024-06-13,2024-05-21,24,Finance
+ITEM1200,Keyboards,Samsung Keyboards 9852,Samsung,Branch-Chicago,In Stock,83,819,67977,12,35,34,2024-04-29,2023-09-30,12,Operations
+ITEM1201,Keyboards,Lenovo Keyboards 8257,Lenovo,Branch-Chicago,Obsolete,73,480,35040,9,62,13,2024-02-03,2023-09-06,12,HR
+ITEM1202,Keyboards,Lenovo Keyboards 4159,Lenovo,Remote-Stock,Under Repair,57,330,18810,23,51,26,2024-10-30,2022-08-23,48,Operations
+ITEM1203,Keyboards,Logitech Keyboards 7427,Logitech,Branch-Chicago,Out of Stock,0,445,0,23,61,26,2024-03-04,2023-01-03,48,Sales
+ITEM1204,Keyboards,Microsoft Keyboards 7588,Microsoft,Branch-LA,In Transit,80,1909,152720,23,49,12,2024-03-12,2022-12-30,48,HR
+ITEM1205,Keyboards,Logitech Keyboards 2094,Logitech,Branch-Chicago,Out of Stock,0,1836,0,19,48,8,2024-08-12,2023-05-10,36,IT
+ITEM1206,Keyboards,Cisco Keyboards 9719,Cisco,Branch-NY,Under Repair,76,109,8284,23,41,30,2024-07-26,2022-11-02,48,Marketing
+ITEM1207,Keyboards,Dell Keyboards 5535,Dell,Branch-Seattle,Out of Stock,0,197,0,22,69,12,2024-06-15,2024-07-01,36,Finance
+ITEM1208,Keyboards,Lenovo Keyboards 6184,Lenovo,Branch-LA,Out of Stock,0,1287,0,23,37,27,2024-08-01,2023-06-17,36,Operations
+ITEM1209,Keyboards,ASUS Keyboards 6567,ASUS,HQ-Warehouse,In Stock,100,938,93800,20,35,8,2024-07-20,2023-05-03,48,Marketing
+ITEM1210,Keyboards,Lenovo Keyboards 2865,Lenovo,HQ-Warehouse,In Stock,36,455,16380,16,52,30,2024-06-06,2022-03-31,12,Operations
+ITEM1211,Keyboards,LG Keyboards 8294,LG,Branch-LA,In Transit,12,1907,22884,16,20,8,2024-01-21,2022-10-17,12,Finance
+ITEM1212,Keyboards,ASUS Keyboards 1220,ASUS,Branch-NY,In Stock,73,255,18615,19,54,33,2024-02-22,2024-03-18,24,Engineering
+ITEM1213,Keyboards,Microsoft Keyboards 3836,Microsoft,Branch-Seattle,In Transit,15,925,13875,16,56,24,2024-10-12,2022-09-07,12,HR
+ITEM1214,Keyboards,Microsoft Keyboards 2087,Microsoft,Remote-Stock,Under Repair,52,1095,56940,5,38,28,2024-02-21,2022-03-13,12,Finance
+ITEM1215,Keyboards,ASUS Keyboards 4880,ASUS,Branch-Chicago,Under Repair,99,607,60093,11,29,12,2024-03-14,2022-09-02,48,Engineering
+ITEM1216,Keyboards,LG Keyboards 2066,LG,HQ-Warehouse,In Transit,98,1140,111720,22,45,25,2024-08-06,2022-10-27,12,IT
+ITEM1217,Keyboards,HP Keyboards 5139,HP,Branch-Chicago,In Stock,36,403,14508,22,61,9,2024-08-29,2023-04-29,24,HR
+ITEM1218,Keyboards,ASUS Keyboards 1004,ASUS,Branch-NY,Obsolete,13,1422,18486,12,41,18,2024-06-07,2023-04-23,36,HR
+ITEM1219,Keyboards,HP Keyboards 4868,HP,Branch-LA,In Stock,84,379,31836,16,63,32,2024-05-01,2022-10-11,24,Finance
+ITEM1220,Keyboards,Apple Keyboards 5332,Apple,Branch-Chicago,In Transit,45,1963,88335,14,54,18,2024-06-08,2022-12-22,12,IT
+ITEM1221,Keyboards,Samsung Keyboards 3170,Samsung,Branch-LA,Under Repair,72,703,50616,23,26,34,2024-03-30,2024-09-24,48,HR
+ITEM1222,Keyboards,LG Keyboards 4170,LG,Remote-Stock,In Stock,28,1417,39676,8,67,11,2024-04-01,2023-03-17,12,Marketing
+ITEM1223,Keyboards,Cisco Keyboards 7426,Cisco,Branch-NY,In Transit,57,1727,98439,16,29,7,2024-01-27,2023-10-27,36,HR
+ITEM1224,Keyboards,Cisco Keyboards 9678,Cisco,HQ-Warehouse,In Stock,3,370,1110,5,42,7,2024-09-12,2022-03-26,12,Sales
+ITEM1225,Keyboards,LG Keyboards 7536,LG,Remote-Stock,Out of Stock,0,723,0,12,31,24,2024-03-06,2023-06-26,36,IT
+ITEM1226,Keyboards,LG Keyboards 8079,LG,Remote-Stock,Out of Stock,0,1333,0,10,63,16,2024-04-22,2023-06-05,36,Marketing
+ITEM1227,Keyboards,LG Keyboards 3042,LG,Branch-NY,In Stock,39,676,26364,21,26,13,2024-07-03,2022-12-28,12,Sales
+ITEM1228,Keyboards,Dell Keyboards 6283,Dell,Remote-Stock,In Transit,38,425,16150,21,28,28,2024-03-24,2023-10-11,36,Engineering
+ITEM1229,Keyboards,Logitech Keyboards 5260,Logitech,Branch-NY,In Stock,67,548,36716,8,69,12,2024-02-29,2022-03-02,48,Sales
+ITEM1230,Keyboards,Logitech Keyboards 1858,Logitech,Branch-Seattle,Under Repair,18,1028,18504,18,53,29,2024-03-24,2022-07-28,12,Engineering
+ITEM1231,Keyboards,ASUS Keyboards 6618,ASUS,Branch-NY,In Transit,31,1517,47027,23,68,11,2024-01-27,2023-11-19,12,HR
+ITEM1232,Keyboards,Samsung Keyboards 6653,Samsung,Branch-Seattle,Allocated,38,1388,52744,9,64,22,2024-02-11,2024-01-09,48,Finance
+ITEM1233,Keyboards,HP Keyboards 7485,HP,Branch-Chicago,In Stock,49,358,17542,11,52,27,2024-03-02,2022-12-12,24,Engineering
+ITEM1234,Keyboards,ASUS Keyboards 4915,ASUS,Branch-LA,In Stock,23,879,20217,8,49,17,2024-09-17,2024-05-31,48,Finance
+ITEM1235,Keyboards,Lenovo Keyboards 7528,Lenovo,Branch-Chicago,Obsolete,24,543,13032,8,65,34,2024-02-21,2022-09-11,12,IT
+ITEM1236,Keyboards,Apple Keyboards 5686,Apple,Branch-NY,Obsolete,49,1502,73598,7,68,10,2024-07-17,2023-06-24,48,IT
+ITEM1237,Keyboards,Lenovo Keyboards 7474,Lenovo,Branch-Seattle,In Stock,8,684,5472,9,40,29,2024-06-25,2023-08-22,36,HR
+ITEM1238,Keyboards,Cisco Keyboards 1964,Cisco,Branch-Seattle,Allocated,69,1009,69621,22,69,23,2024-04-05,2023-10-07,48,Marketing
+ITEM1239,Keyboards,Logitech Keyboards 6343,Logitech,HQ-Warehouse,In Stock,92,1369,125948,6,20,28,2024-08-20,2022-04-07,24,IT
+ITEM1240,Keyboards,LG Keyboards 3449,LG,Branch-Chicago,Obsolete,39,1060,41340,18,53,12,2024-01-16,2022-07-11,48,Engineering
+ITEM1241,Keyboards,Samsung Keyboards 6923,Samsung,Branch-Chicago,In Transit,73,266,19418,11,48,28,2024-01-12,2023-06-27,12,HR
+ITEM1242,Keyboards,Cisco Keyboards 3148,Cisco,Branch-Seattle,In Transit,13,158,2054,5,54,34,2024-07-05,2024-04-27,36,IT
+ITEM1243,Keyboards,Lenovo Keyboards 2981,Lenovo,Branch-Seattle,Out of Stock,0,2087,0,18,27,10,2024-07-18,2023-09-08,36,Marketing
+ITEM1244,Keyboards,ASUS Keyboards 1192,ASUS,Remote-Stock,Out of Stock,0,611,0,5,54,24,2024-05-09,2022-11-26,24,IT
+ITEM1245,Keyboards,Dell Keyboards 1821,Dell,Remote-Stock,Allocated,44,690,30360,7,24,25,2024-03-27,2022-02-08,12,HR
+ITEM1246,Keyboards,Cisco Keyboards 3348,Cisco,Branch-LA,Out of Stock,0,1013,0,6,43,30,2024-01-26,2022-04-12,12,HR
+ITEM1247,Keyboards,Samsung Keyboards 6402,Samsung,Branch-Seattle,Under Repair,88,2050,180400,17,50,26,2024-04-03,2022-10-27,48,HR
+ITEM1248,Keyboards,Microsoft Keyboards 8679,Microsoft,HQ-Warehouse,Allocated,70,1058,74060,10,41,31,2024-04-10,2024-05-18,24,Operations
+ITEM1249,Keyboards,Microsoft Keyboards 1402,Microsoft,Branch-NY,In Stock,59,153,9027,18,46,22,2024-10-13,2023-02-07,48,Operations
+ITEM1250,Keyboards,Logitech Keyboards 9054,Logitech,Branch-LA,In Transit,86,1751,150586,20,23,14,2024-08-11,2022-08-25,24,HR
+ITEM1251,Keyboards,ASUS Keyboards 4848,ASUS,Branch-LA,In Transit,99,1740,172260,23,67,7,2024-05-17,2022-03-16,12,Sales
+ITEM1252,Keyboards,Apple Keyboards 1046,Apple,Branch-LA,Under Repair,73,1571,114683,21,57,22,2024-09-04,2023-05-20,12,HR
+ITEM1253,Mice,Microsoft Mice 1850,Microsoft,Branch-LA,Out of Stock,0,1539,0,17,33,8,2024-07-05,2023-12-18,24,Marketing
+ITEM1254,Mice,HP Mice 5154,HP,Remote-Stock,In Transit,59,1193,70387,18,26,33,2024-10-13,2023-12-24,36,HR
+ITEM1255,Mice,Cisco Mice 8001,Cisco,Branch-Seattle,In Stock,42,558,23436,16,24,17,2024-09-01,2023-11-27,36,Operations
+ITEM1256,Mice,LG Mice 1976,LG,Branch-NY,Allocated,70,476,33320,6,57,30,2024-08-21,2023-09-02,12,IT
+ITEM1257,Mice,Microsoft Mice 2799,Microsoft,Branch-LA,In Stock,88,723,63624,21,32,14,2024-05-02,2023-06-26,12,Finance
+ITEM1258,Mice,Cisco Mice 8276,Cisco,Branch-LA,Out of Stock,0,1819,0,12,62,5,2024-01-13,2022-12-09,48,IT
+ITEM1259,Mice,Cisco Mice 4456,Cisco,Branch-LA,Under Repair,44,896,39424,11,61,24,2024-03-08,2024-03-04,36,IT
+ITEM1260,Mice,Dell Mice 2402,Dell,HQ-Warehouse,Allocated,43,1109,47687,17,43,13,2024-04-26,2022-02-03,12,Marketing
+ITEM1261,Mice,Dell Mice 5327,Dell,Remote-Stock,In Transit,95,1758,167010,11,26,24,2024-05-09,2024-03-15,12,Operations
+ITEM1262,Mice,Samsung Mice 3559,Samsung,Branch-Seattle,In Stock,38,584,22192,17,25,25,2024-07-06,2023-05-30,36,Engineering
+ITEM1263,Mice,Lenovo Mice 5549,Lenovo,HQ-Warehouse,Out of Stock,0,1514,0,21,43,15,2024-07-25,2024-04-30,24,Engineering
+ITEM1264,Mice,Apple Mice 8845,Apple,Remote-Stock,Under Repair,87,1257,109359,18,37,23,2024-05-24,2023-01-25,48,HR
+ITEM1265,Mice,Dell Mice 8480,Dell,HQ-Warehouse,Obsolete,70,1126,78820,20,48,33,2024-08-31,2022-04-29,24,IT
+ITEM1266,Mice,Cisco Mice 9698,Cisco,Branch-NY,Obsolete,52,1329,69108,16,37,12,2024-02-12,2022-03-13,12,Marketing
+ITEM1267,Mice,Apple Mice 2060,Apple,Branch-Seattle,In Transit,3,724,2172,19,55,9,2024-01-16,2022-07-31,36,Marketing
+ITEM1268,Mice,Microsoft Mice 2365,Microsoft,Remote-Stock,In Stock,19,1436,27284,11,23,33,2024-10-29,2023-03-07,48,Engineering
+ITEM1269,Mice,Dell Mice 8229,Dell,Branch-Seattle,Out of Stock,0,606,0,16,41,7,2024-02-02,2022-08-10,36,Operations
+ITEM1270,Mice,Apple Mice 5651,Apple,Branch-NY,Out of Stock,0,1734,0,7,48,5,2024-04-01,2022-02-04,36,HR
+ITEM1271,Mice,Lenovo Mice 3421,Lenovo,Branch-Seattle,Out of Stock,0,487,0,20,32,15,2024-03-21,2024-03-07,36,Engineering
+ITEM1272,Mice,LG Mice 9703,LG,Branch-NY,Obsolete,7,757,5299,18,57,20,2024-04-23,2024-01-26,24,Sales
+ITEM1273,Mice,Microsoft Mice 9722,Microsoft,Branch-Chicago,In Transit,94,484,45496,19,48,31,2024-06-02,2023-02-17,24,Finance
+ITEM1274,Mice,Lenovo Mice 6886,Lenovo,Branch-LA,Allocated,51,1320,67320,20,23,27,2024-01-19,2022-09-25,48,IT
+ITEM1275,Mice,HP Mice 8732,HP,Branch-Chicago,Obsolete,94,276,25944,23,33,5,2024-01-26,2024-03-28,12,Marketing
+ITEM1276,Mice,HP Mice 3586,HP,Branch-Seattle,In Stock,25,1845,46125,7,68,28,2024-05-23,2022-08-10,36,Finance
+ITEM1277,Mice,Dell Mice 5318,Dell,Remote-Stock,In Transit,9,552,4968,7,34,27,2024-09-26,2023-07-18,24,HR
+ITEM1278,Mice,Apple Mice 2660,Apple,Branch-Chicago,Obsolete,57,191,10887,12,31,34,2024-05-26,2023-11-03,12,Marketing
+ITEM1279,Mice,LG Mice 5503,LG,Branch-Seattle,Obsolete,37,1826,67562,18,66,18,2024-07-27,2024-06-23,48,Operations
+ITEM1280,Mice,Samsung Mice 5748,Samsung,Branch-NY,In Transit,67,1425,95475,6,27,9,2024-05-13,2022-10-15,48,Operations
+ITEM1281,Mice,LG Mice 4510,LG,HQ-Warehouse,Under Repair,91,770,70070,10,37,24,2024-06-12,2023-04-12,36,Finance
+ITEM1282,Mice,Microsoft Mice 2512,Microsoft,Remote-Stock,Under Repair,53,759,40227,5,60,16,2024-09-06,2022-02-24,48,Engineering
+ITEM1283,Mice,HP Mice 3159,HP,HQ-Warehouse,In Stock,15,939,14085,7,42,18,2024-06-05,2022-12-30,48,Finance
+ITEM1284,Mice,Apple Mice 9046,Apple,HQ-Warehouse,In Stock,47,1366,64202,21,34,27,2024-08-08,2024-08-06,12,IT
+ITEM1285,Mice,Dell Mice 8617,Dell,Branch-Seattle,Out of Stock,0,2009,0,11,65,24,2024-01-10,2023-03-10,12,Operations
+ITEM1286,Mice,Dell Mice 3673,Dell,Branch-LA,Out of Stock,0,464,0,17,38,7,2024-07-31,2022-01-30,24,Operations
+ITEM1287,Mice,Cisco Mice 5965,Cisco,Branch-LA,In Transit,63,1765,111195,24,61,7,2024-10-06,2022-06-24,36,Sales
+ITEM1288,Mice,Samsung Mice 4332,Samsung,Branch-LA,Allocated,49,877,42973,12,53,27,2024-06-13,2023-08-04,48,IT
+ITEM1289,Mice,Cisco Mice 6420,Cisco,HQ-Warehouse,Under Repair,67,1341,89847,19,25,6,2024-03-11,2022-09-22,24,IT
+ITEM1290,Mice,LG Mice 2723,LG,Branch-NY,In Stock,84,2042,171528,15,47,21,2024-04-24,2024-09-25,36,Sales
+ITEM1291,Mice,Cisco Mice 8602,Cisco,Branch-NY,Out of Stock,0,1371,0,23,50,7,2024-06-05,2024-05-15,24,Marketing
+ITEM1292,Mice,ASUS Mice 5319,ASUS,Branch-Chicago,In Stock,59,661,38999,15,56,24,2024-08-12,2024-05-06,48,Operations
+ITEM1293,Mice,Lenovo Mice 8784,Lenovo,Branch-NY,Under Repair,85,1126,95710,12,34,11,2024-01-23,2022-04-09,36,IT
+ITEM1294,Mice,Microsoft Mice 5944,Microsoft,Remote-Stock,Out of Stock,0,2074,0,6,65,33,2024-04-14,2022-05-09,48,Engineering
+ITEM1295,Mice,Samsung Mice 1426,Samsung,Branch-Chicago,In Stock,52,2059,107068,24,44,12,2024-04-11,2023-06-25,36,Finance
+ITEM1296,Mice,Dell Mice 3174,Dell,Branch-NY,Obsolete,19,769,14611,24,62,29,2024-05-20,2023-02-01,48,Marketing
+ITEM1297,Mice,Lenovo Mice 6531,Lenovo,Remote-Stock,In Stock,9,1540,13860,24,22,18,2024-10-06,2022-04-24,36,HR
+ITEM1298,Mice,Logitech Mice 6577,Logitech,Branch-NY,Obsolete,86,1571,135106,14,32,22,2024-02-04,2022-07-29,48,Marketing
+ITEM1299,Mice,LG Mice 7506,LG,Branch-Chicago,Out of Stock,0,319,0,19,61,23,2024-09-16,2024-07-24,24,IT
+ITEM1300,Mice,LG Mice 8397,LG,Branch-LA,Out of Stock,0,364,0,13,60,29,2024-09-15,2023-05-28,48,IT
+ITEM1301,Mice,Microsoft Mice 7940,Microsoft,Branch-Seattle,Obsolete,29,1328,38512,21,39,12,2024-06-03,2023-01-09,48,IT
+ITEM1302,Mice,Apple Mice 2694,Apple,Branch-Chicago,In Stock,56,1410,78960,21,66,32,2024-05-16,2024-08-18,24,Marketing
+ITEM1303,Mice,Apple Mice 6058,Apple,Branch-Chicago,Out of Stock,0,786,0,21,52,11,2024-09-23,2024-04-29,48,Finance
+ITEM1304,Mice,Microsoft Mice 5125,Microsoft,Branch-LA,Allocated,11,537,5907,11,38,31,2024-09-09,2023-01-08,24,Finance
+ITEM1305,Mice,Samsung Mice 3307,Samsung,Remote-Stock,Allocated,97,1546,149962,6,24,33,2024-07-23,2023-06-17,36,IT
+ITEM1306,Mice,Logitech Mice 7082,Logitech,Branch-LA,Under Repair,66,1465,96690,13,54,10,2024-08-26,2022-09-22,12,Marketing
+ITEM1307,Mice,Cisco Mice 4513,Cisco,Branch-LA,Allocated,8,1308,10464,11,43,29,2024-09-13,2022-08-05,36,Engineering
+ITEM1308,Mice,LG Mice 4869,LG,Branch-LA,In Stock,11,771,8481,14,28,8,2024-09-19,2023-06-27,48,Operations
+ITEM1309,Mice,Cisco Mice 3535,Cisco,Branch-LA,In Transit,2,438,876,23,62,6,2024-03-02,2023-10-12,24,Finance
+ITEM1310,Mice,ASUS Mice 9234,ASUS,Remote-Stock,Allocated,96,556,53376,6,25,17,2024-10-23,2022-02-25,48,HR
+ITEM1311,Mice,Apple Mice 5236,Apple,Branch-Seattle,Obsolete,64,967,61888,11,69,34,2024-04-27,2024-01-20,12,Engineering
+ITEM1312,Mice,LG Mice 5793,LG,HQ-Warehouse,In Transit,56,207,11592,12,24,8,2024-01-19,2022-07-18,12,Operations
+ITEM1313,Mice,Apple Mice 8189,Apple,Branch-Seattle,Obsolete,21,1833,38493,21,44,8,2024-06-25,2023-02-09,48,HR
+ITEM1314,Mice,Logitech Mice 6594,Logitech,Branch-LA,Allocated,31,796,24676,8,31,21,2024-09-19,2024-09-21,48,Engineering
+ITEM1315,Mice,Lenovo Mice 8847,Lenovo,Remote-Stock,Allocated,44,1751,77044,15,34,17,2024-02-05,2024-05-23,24,IT
+ITEM1316,Headsets,ASUS Headsets 3060,ASUS,Branch-Chicago,In Transit,42,1779,74718,6,62,30,2024-10-02,2022-05-12,36,Marketing
+ITEM1317,Headsets,LG Headsets 4351,LG,Branch-Seattle,Obsolete,58,823,47734,22,63,18,2024-02-23,2024-05-25,48,Finance
+ITEM1318,Headsets,LG Headsets 8597,LG,HQ-Warehouse,Allocated,28,1349,37772,10,59,30,2024-06-04,2023-04-11,36,Finance
+ITEM1319,Headsets,HP Headsets 8848,HP,Branch-LA,Obsolete,21,1319,27699,16,52,22,2024-08-03,2022-06-06,48,Operations
+ITEM1320,Headsets,HP Headsets 8449,HP,Remote-Stock,Out of Stock,0,328,0,19,24,9,2024-06-19,2022-06-10,24,Operations
+ITEM1321,Headsets,Dell Headsets 4446,Dell,Branch-LA,In Stock,40,1855,74200,18,34,23,2024-01-10,2023-10-29,24,Sales
+ITEM1322,Headsets,Logitech Headsets 4694,Logitech,HQ-Warehouse,In Stock,31,587,18197,8,66,31,2024-10-07,2023-12-09,36,Marketing
+ITEM1323,Headsets,Microsoft Headsets 3659,Microsoft,Branch-NY,In Transit,82,498,40836,14,36,34,2024-07-28,2023-12-31,12,Sales
+ITEM1324,Headsets,Microsoft Headsets 1743,Microsoft,Branch-Seattle,Out of Stock,0,441,0,6,21,19,2024-10-22,2023-03-19,24,IT
+ITEM1325,Headsets,Lenovo Headsets 2024,Lenovo,Branch-LA,Out of Stock,0,279,0,8,22,24,2024-10-27,2022-07-13,48,Sales
+ITEM1326,Headsets,LG Headsets 1936,LG,Branch-Chicago,In Stock,33,1329,43857,14,37,14,2024-04-08,2023-03-22,48,HR
+ITEM1327,Headsets,HP Headsets 2220,HP,Branch-LA,Under Repair,42,1332,55944,14,22,13,2024-05-28,2023-03-07,48,IT
+ITEM1328,Headsets,Microsoft Headsets 8638,Microsoft,Branch-LA,In Transit,97,780,75660,16,26,21,2024-05-12,2022-07-04,12,HR
+ITEM1329,Headsets,Microsoft Headsets 4228,Microsoft,Branch-LA,Under Repair,35,309,10815,14,57,15,2024-08-09,2023-02-10,48,Finance
+ITEM1330,Headsets,Cisco Headsets 5827,Cisco,Branch-Seattle,In Stock,22,1890,41580,6,43,27,2024-03-28,2024-01-03,24,IT
+ITEM1331,Headsets,Logitech Headsets 6759,Logitech,Branch-Seattle,Under Repair,92,1477,135884,16,60,10,2024-04-13,2024-07-02,12,Operations
+ITEM1332,Headsets,Samsung Headsets 4842,Samsung,Branch-Chicago,Under Repair,17,1103,18751,14,56,24,2024-09-29,2023-03-22,48,Finance
+ITEM1333,Headsets,LG Headsets 7403,LG,Branch-NY,Under Repair,23,168,3864,16,50,21,2024-01-24,2023-05-22,48,Marketing
+ITEM1334,Headsets,Lenovo Headsets 9885,Lenovo,Branch-Chicago,Under Repair,3,317,951,10,59,7,2024-06-06,2023-02-23,48,HR
+ITEM1335,Headsets,HP Headsets 8977,HP,Branch-NY,In Stock,66,714,47124,23,23,34,2024-06-11,2023-10-26,24,Finance
+ITEM1336,Headsets,Logitech Headsets 9724,Logitech,Branch-NY,Under Repair,100,471,47100,22,38,18,2024-08-30,2024-02-25,24,HR
+ITEM1337,Headsets,Cisco Headsets 4298,Cisco,Branch-LA,In Transit,48,1098,52704,15,61,25,2024-08-25,2023-04-28,36,Sales
+ITEM1338,Headsets,Logitech Headsets 1174,Logitech,Branch-LA,Obsolete,10,560,5600,19,60,17,2024-07-29,2024-03-19,24,Marketing
+ITEM1339,Headsets,Lenovo Headsets 2905,Lenovo,Branch-Seattle,In Stock,76,1681,127756,19,36,29,2024-09-28,2022-01-23,48,Sales
+ITEM1340,Headsets,Cisco Headsets 2998,Cisco,Branch-NY,Out of Stock,0,1824,0,11,30,23,2024-06-17,2022-12-08,36,Marketing
+ITEM1341,Headsets,Lenovo Headsets 8601,Lenovo,Remote-Stock,Obsolete,96,646,62016,23,33,16,2024-05-06,2022-03-20,48,IT
+ITEM1342,Headsets,Microsoft Headsets 5843,Microsoft,Branch-Seattle,Under Repair,98,787,77126,20,60,5,2024-07-20,2022-02-18,36,IT
+ITEM1343,Headsets,Microsoft Headsets 3896,Microsoft,Branch-Chicago,Under Repair,99,1949,192951,15,42,26,2024-05-03,2023-01-23,36,IT
+ITEM1344,Headsets,LG Headsets 9833,LG,Branch-Seattle,In Transit,15,321,4815,8,35,20,2024-09-11,2023-05-18,12,Sales
+ITEM1345,Headsets,Logitech Headsets 1852,Logitech,HQ-Warehouse,In Transit,93,980,91140,5,24,33,2024-05-28,2022-07-29,12,Finance
+ITEM1346,Headsets,LG Headsets 8519,LG,Branch-NY,Obsolete,79,1251,98829,12,24,34,2024-03-06,2022-11-29,24,Marketing
+ITEM1347,Headsets,Samsung Headsets 9938,Samsung,Branch-LA,Under Repair,93,641,59613,16,40,33,2024-06-12,2024-08-01,24,Operations
+ITEM1348,Headsets,Cisco Headsets 8654,Cisco,HQ-Warehouse,Allocated,32,1717,54944,11,65,7,2024-04-11,2022-11-26,36,Sales
+ITEM1349,Headsets,LG Headsets 1537,LG,Branch-LA,Out of Stock,0,628,0,22,37,14,2024-03-17,2022-03-15,24,Operations
+ITEM1350,Headsets,Samsung Headsets 7670,Samsung,HQ-Warehouse,Out of Stock,0,571,0,23,33,32,2024-02-19,2024-07-15,24,Operations
+ITEM1351,Headsets,Samsung Headsets 5717,Samsung,Branch-Chicago,Out of Stock,0,1429,0,18,59,28,2024-09-02,2022-10-06,48,Finance
+ITEM1352,Headsets,Microsoft Headsets 7557,Microsoft,Branch-Seattle,Under Repair,11,1478,16258,7,34,17,2024-09-04,2023-09-02,48,IT
+ITEM1353,Headsets,Apple Headsets 1107,Apple,Branch-NY,Out of Stock,0,357,0,21,33,29,2024-08-24,2024-03-20,36,IT
+ITEM1354,Headsets,Dell Headsets 6835,Dell,Branch-LA,Obsolete,66,1005,66330,16,59,20,2024-09-28,2023-07-28,12,Marketing
+ITEM1355,Headsets,Lenovo Headsets 7117,Lenovo,HQ-Warehouse,Out of Stock,0,1081,0,12,45,10,2024-05-03,2022-12-26,24,Operations
+ITEM1356,Headsets,HP Headsets 3609,HP,Branch-LA,In Stock,12,568,6816,11,38,13,2024-08-24,2022-06-08,36,HR
+ITEM1357,Headsets,Logitech Headsets 1832,Logitech,Remote-Stock,In Transit,5,279,1395,14,62,13,2024-05-05,2024-05-26,36,Marketing
+ITEM1358,Headsets,ASUS Headsets 3329,ASUS,Branch-Seattle,In Stock,67,1051,70417,19,45,10,2024-05-29,2022-11-01,12,Finance
+ITEM1359,Headsets,Samsung Headsets 1919,Samsung,Branch-Chicago,Under Repair,93,674,62682,15,45,17,2024-01-28,2023-11-10,24,Engineering
+ITEM1360,Headsets,Microsoft Headsets 5059,Microsoft,Remote-Stock,In Stock,33,134,4422,16,47,9,2024-01-12,2022-10-03,36,Operations
+ITEM1361,Headsets,Cisco Headsets 5101,Cisco,Branch-Chicago,Under Repair,66,1043,68838,8,25,6,2024-03-15,2023-07-13,48,Engineering
+ITEM1362,Headsets,Microsoft Headsets 1265,Microsoft,Branch-Chicago,In Stock,67,1604,107468,9,29,25,2024-09-15,2024-02-20,48,Engineering
+ITEM1363,Headsets,LG Headsets 2880,LG,Branch-Seattle,Obsolete,36,633,22788,20,30,13,2024-04-09,2024-05-04,36,Operations
+ITEM1364,Headsets,Lenovo Headsets 8775,Lenovo,Branch-NY,In Stock,10,455,4550,14,45,13,2024-07-14,2024-06-27,24,Marketing
+ITEM1365,Headsets,Dell Headsets 9724,Dell,Remote-Stock,In Stock,99,1250,123750,6,65,18,2024-03-16,2022-10-28,12,Finance
+ITEM1366,Headsets,HP Headsets 7338,HP,Branch-Chicago,Obsolete,39,142,5538,13,20,10,2024-08-09,2023-11-26,12,Marketing
+ITEM1367,Headsets,Lenovo Headsets 5324,Lenovo,HQ-Warehouse,In Transit,23,1104,25392,23,45,15,2024-09-06,2024-06-27,36,HR
+ITEM1368,Webcams,Samsung Webcams 8197,Samsung,Branch-Seattle,Out of Stock,0,1446,0,15,50,26,2024-07-12,2022-07-03,12,Sales
+ITEM1369,Webcams,LG Webcams 1123,LG,Branch-Chicago,In Stock,84,1031,86604,10,48,23,2024-08-29,2024-08-28,12,HR
+ITEM1370,Webcams,Logitech Webcams 3821,Logitech,Branch-LA,Allocated,94,288,27072,9,47,11,2024-03-29,2023-11-22,12,Sales
+ITEM1371,Webcams,Logitech Webcams 1717,Logitech,Remote-Stock,Obsolete,92,1606,147752,15,40,18,2024-01-27,2023-10-13,48,Operations
+ITEM1372,Webcams,LG Webcams 4477,LG,HQ-Warehouse,Out of Stock,0,1577,0,7,51,29,2024-08-31,2024-03-09,24,Engineering
+ITEM1373,Webcams,Microsoft Webcams 5485,Microsoft,Branch-LA,Allocated,36,465,16740,8,56,12,2024-05-23,2023-06-03,24,Sales
+ITEM1374,Webcams,HP Webcams 9082,HP,Remote-Stock,Obsolete,61,1872,114192,10,21,19,2024-04-24,2024-05-23,48,HR
+ITEM1375,Webcams,Microsoft Webcams 8429,Microsoft,Branch-LA,In Stock,9,297,2673,18,32,22,2024-07-01,2024-08-15,48,Operations
+ITEM1376,Webcams,HP Webcams 6299,HP,Branch-LA,Allocated,54,208,11232,17,67,32,2024-09-22,2022-10-01,36,Marketing
+ITEM1377,Webcams,Microsoft Webcams 4439,Microsoft,Branch-NY,Under Repair,51,1369,69819,23,49,22,2024-08-28,2024-09-09,24,Marketing
+ITEM1378,Webcams,HP Webcams 4269,HP,Branch-NY,Under Repair,11,1885,20735,16,60,6,2024-04-12,2023-02-27,24,Sales
+ITEM1379,Webcams,Dell Webcams 4192,Dell,Remote-Stock,Out of Stock,0,1514,0,5,31,15,2024-10-20,2024-08-22,12,Engineering
+ITEM1380,Webcams,Dell Webcams 9740,Dell,Branch-NY,Obsolete,2,1576,3152,22,36,27,2024-06-20,2023-06-28,48,IT
+ITEM1381,Webcams,Microsoft Webcams 9968,Microsoft,HQ-Warehouse,Allocated,73,575,41975,21,45,29,2024-09-30,2022-04-08,48,HR
+ITEM1382,Webcams,Microsoft Webcams 4090,Microsoft,HQ-Warehouse,Allocated,79,1648,130192,19,26,9,2024-07-25,2024-07-05,36,IT
+ITEM1383,Webcams,HP Webcams 9880,HP,Branch-Chicago,Allocated,79,1915,151285,15,69,25,2024-10-06,2024-03-09,48,Finance
+ITEM1384,Webcams,HP Webcams 3238,HP,Branch-NY,Obsolete,40,549,21960,22,61,25,2024-09-28,2023-04-17,36,HR
+ITEM1385,Webcams,Dell Webcams 2356,Dell,Branch-NY,Under Repair,100,484,48400,15,45,21,2024-01-13,2022-11-11,48,IT
+ITEM1386,Webcams,Cisco Webcams 2822,Cisco,Branch-NY,In Transit,3,134,402,9,40,25,2024-09-12,2022-10-07,48,HR
+ITEM1387,Webcams,Samsung Webcams 5927,Samsung,Branch-LA,In Stock,1,638,638,18,33,30,2024-01-14,2023-01-19,48,Operations
+ITEM1388,Webcams,HP Webcams 5604,HP,Branch-NY,In Stock,31,2022,62682,15,21,27,2024-10-06,2023-08-11,24,Engineering
+ITEM1389,Webcams,Samsung Webcams 8660,Samsung,Remote-Stock,Allocated,15,114,1710,23,49,16,2024-02-01,2023-02-18,48,Marketing
+ITEM1390,Webcams,Apple Webcams 5447,Apple,Branch-LA,In Transit,100,528,52800,20,64,9,2024-02-10,2023-07-13,12,Marketing
+ITEM1391,Webcams,Microsoft Webcams 6566,Microsoft,Branch-Seattle,Under Repair,58,1249,72442,17,54,29,2024-01-10,2023-02-21,36,Engineering
+ITEM1392,Webcams,ASUS Webcams 1705,ASUS,Branch-LA,Under Repair,9,774,6966,10,57,16,2024-05-02,2023-07-28,12,Engineering
+ITEM1393,Webcams,Logitech Webcams 4879,Logitech,Branch-LA,In Transit,25,1275,31875,13,32,32,2024-04-19,2023-12-13,36,IT
+ITEM1394,Webcams,Lenovo Webcams 7792,Lenovo,Branch-NY,Under Repair,27,140,3780,22,29,29,2024-05-21,2022-01-12,12,Sales
+ITEM1395,Webcams,ASUS Webcams 9509,ASUS,Branch-Seattle,In Stock,31,2016,62496,14,40,20,2024-09-11,2024-04-10,24,Marketing
+ITEM1396,Webcams,LG Webcams 9703,LG,Branch-Seattle,Allocated,61,843,51423,22,23,22,2024-08-04,2024-08-04,48,IT
+ITEM1397,Webcams,Logitech Webcams 6366,Logitech,Branch-Seattle,In Stock,53,234,12402,10,40,27,2024-07-11,2024-08-10,12,Sales
+ITEM1398,Webcams,Logitech Webcams 7367,Logitech,Branch-LA,In Transit,43,1427,61361,8,30,22,2024-04-16,2022-07-02,24,IT
+ITEM1399,Webcams,Lenovo Webcams 5417,Lenovo,Branch-LA,Under Repair,21,668,14028,22,61,18,2024-10-26,2023-07-26,12,Marketing
+ITEM1400,Webcams,HP Webcams 1049,HP,Branch-NY,In Transit,5,1478,7390,6,46,7,2024-08-04,2022-05-14,36,Finance
+ITEM1401,Docking Stations,Dell Docking Stations 7968,Dell,Branch-LA,In Stock,54,774,41796,13,49,20,2024-01-14,2023-12-17,12,Operations
+ITEM1402,Docking Stations,Dell Docking Stations 7899,Dell,Branch-Chicago,In Stock,62,1793,111166,16,55,23,2024-09-05,2022-11-24,48,IT
+ITEM1403,Docking Stations,Dell Docking Stations 6908,Dell,Branch-NY,In Stock,27,254,6858,15,66,28,2024-06-25,2023-09-29,36,HR
+ITEM1404,Docking Stations,Dell Docking Stations 8296,Dell,Remote-Stock,Obsolete,86,1317,113262,13,35,10,2024-07-27,2024-03-28,48,Sales
+ITEM1405,Docking Stations,HP Docking Stations 1074,HP,Branch-Seattle,Allocated,56,874,48944,18,68,30,2024-05-27,2023-11-03,36,HR
+ITEM1406,Docking Stations,LG Docking Stations 2084,LG,Branch-LA,Under Repair,59,895,52805,14,63,29,2024-03-29,2024-06-26,48,Sales
+ITEM1407,Docking Stations,HP Docking Stations 9046,HP,Branch-LA,Allocated,92,1959,180228,19,48,8,2024-06-03,2022-10-12,48,Marketing
+ITEM1408,Docking Stations,Dell Docking Stations 7395,Dell,Remote-Stock,In Transit,92,203,18676,6,35,32,2024-06-09,2022-03-17,36,IT
+ITEM1409,Docking Stations,Samsung Docking Stations 4748,Samsung,Branch-Chicago,In Stock,3,1373,4119,5,62,32,2024-05-16,2022-04-26,12,Sales
+ITEM1410,Docking Stations,ASUS Docking Stations 1787,ASUS,Remote-Stock,In Stock,50,492,24600,6,44,22,2024-03-21,2023-08-20,48,Sales
+ITEM1411,Docking Stations,LG Docking Stations 3401,LG,Branch-NY,Out of Stock,0,1208,0,17,64,25,2024-10-16,2022-08-19,36,IT
+ITEM1412,Docking Stations,HP Docking Stations 3190,HP,Branch-LA,Under Repair,1,548,548,8,57,24,2024-05-27,2022-01-13,24,Engineering
+ITEM1413,Docking Stations,Samsung Docking Stations 5480,Samsung,Remote-Stock,Allocated,22,940,20680,10,65,15,2024-05-07,2023-02-26,24,IT
+ITEM1414,Docking Stations,Samsung Docking Stations 8366,Samsung,Remote-Stock,Allocated,13,780,10140,7,37,5,2024-03-02,2022-04-13,36,Engineering
+ITEM1415,Docking Stations,Apple Docking Stations 2651,Apple,Branch-LA,Allocated,11,896,9856,18,55,22,2024-05-27,2024-04-05,36,IT
+ITEM1416,Docking Stations,Samsung Docking Stations 4026,Samsung,Remote-Stock,Obsolete,32,491,15712,12,22,22,2024-08-12,2024-02-20,36,Engineering
+ITEM1417,Docking Stations,Logitech Docking Stations 1493,Logitech,HQ-Warehouse,Under Repair,16,192,3072,14,37,15,2024-02-06,2023-05-28,12,Operations
+ITEM1418,Docking Stations,LG Docking Stations 3494,LG,Branch-Chicago,Out of Stock,0,1530,0,5,69,6,2024-05-13,2022-01-12,36,Operations
+ITEM1419,Docking Stations,Logitech Docking Stations 9654,Logitech,Branch-Seattle,In Transit,79,199,15721,6,31,17,2024-08-14,2023-02-24,24,Engineering
+ITEM1420,Docking Stations,Lenovo Docking Stations 4443,Lenovo,Branch-NY,Allocated,48,1215,58320,20,29,25,2024-06-13,2023-08-19,48,Sales
+ITEM1421,Docking Stations,Logitech Docking Stations 5482,Logitech,Branch-LA,In Stock,13,1187,15431,24,69,16,2024-10-29,2024-08-02,12,Marketing
+ITEM1422,Docking Stations,ASUS Docking Stations 7381,ASUS,Remote-Stock,In Stock,21,1404,29484,15,60,27,2024-10-22,2023-10-13,24,Engineering
+ITEM1423,Docking Stations,Cisco Docking Stations 6943,Cisco,Branch-NY,Under Repair,100,547,54700,18,30,22,2024-07-21,2022-11-15,24,Finance
+ITEM1424,Docking Stations,Cisco Docking Stations 3796,Cisco,Branch-Chicago,In Stock,34,665,22610,12,67,6,2024-02-25,2022-07-17,36,IT
+ITEM1425,Docking Stations,ASUS Docking Stations 7074,ASUS,Branch-LA,Under Repair,86,563,48418,8,21,23,2024-04-23,2023-06-16,36,HR
+ITEM1426,Docking Stations,LG Docking Stations 5036,LG,Branch-LA,In Stock,26,1413,36738,15,48,12,2024-10-26,2023-11-17,12,Finance
+ITEM1427,Docking Stations,Samsung Docking Stations 5070,Samsung,Branch-NY,In Transit,74,968,71632,15,37,18,2024-01-08,2022-10-30,24,IT
+ITEM1428,Docking Stations,Microsoft Docking Stations 6477,Microsoft,HQ-Warehouse,In Transit,83,1315,109145,19,31,33,2024-04-02,2022-12-02,48,Engineering
+ITEM1429,Docking Stations,Cisco Docking Stations 7046,Cisco,Branch-NY,In Transit,48,838,40224,24,37,10,2024-08-07,2022-03-16,48,Engineering
+ITEM1430,Docking Stations,Cisco Docking Stations 6564,Cisco,Branch-LA,Obsolete,6,324,1944,23,64,23,2024-01-26,2024-01-13,24,IT
+ITEM1431,Docking Stations,HP Docking Stations 5569,HP,Branch-LA,Under Repair,23,1729,39767,12,33,18,2024-10-12,2024-03-04,48,Sales
+ITEM1432,Docking Stations,HP Docking Stations 4288,HP,Branch-Seattle,Allocated,85,379,32215,23,34,34,2024-10-06,2022-09-01,12,Engineering
+ITEM1433,Docking Stations,Dell Docking Stations 5236,Dell,HQ-Warehouse,Out of Stock,0,2057,0,6,52,10,2024-01-10,2022-10-17,24,Operations
+ITEM1434,Docking Stations,Apple Docking Stations 5916,Apple,Branch-NY,Obsolete,50,1567,78350,17,31,18,2024-07-14,2022-10-10,48,Finance
+ITEM1435,Docking Stations,Cisco Docking Stations 6460,Cisco,Branch-Chicago,Allocated,54,300,16200,20,34,22,2024-05-14,2022-06-22,36,Operations
+ITEM1436,Docking Stations,Lenovo Docking Stations 7164,Lenovo,Branch-Seattle,Obsolete,40,1595,63800,13,41,29,2024-09-17,2023-08-01,36,Engineering
+ITEM1437,Docking Stations,LG Docking Stations 9194,LG,Branch-NY,Out of Stock,0,1388,0,5,29,23,2024-08-17,2024-02-15,24,HR
+ITEM1438,Docking Stations,LG Docking Stations 4366,LG,Remote-Stock,Out of Stock,0,291,0,19,34,10,2024-08-10,2022-10-15,36,Operations
+ITEM1439,Docking Stations,Microsoft Docking Stations 2125,Microsoft,Branch-LA,In Stock,89,1633,145337,7,39,21,2024-03-16,2023-06-18,12,Sales
+ITEM1440,Docking Stations,ASUS Docking Stations 2810,ASUS,HQ-Warehouse,Out of Stock,0,719,0,22,49,18,2024-04-05,2024-04-07,12,Marketing
+ITEM1441,Routers,Dell Routers 4929,Dell,Branch-NY,In Transit,99,1514,149886,19,67,8,2024-02-21,2022-04-02,12,IT
+ITEM1442,Routers,Cisco Routers 6664,Cisco,Branch-LA,In Transit,33,1206,39798,9,63,17,2024-06-25,2023-05-22,36,IT
+ITEM1443,Routers,Logitech Routers 4196,Logitech,Remote-Stock,In Transit,53,1576,83528,12,28,6,2024-08-18,2022-01-27,36,HR
+ITEM1444,Routers,Apple Routers 5419,Apple,Branch-LA,Out of Stock,0,1453,0,23,65,8,2024-01-22,2022-12-25,36,Operations
+ITEM1445,Routers,HP Routers 6724,HP,Branch-LA,In Stock,8,659,5272,8,45,26,2024-05-16,2022-02-26,12,Engineering
+ITEM1446,Routers,Microsoft Routers 1535,Microsoft,Branch-NY,In Transit,33,1212,39996,5,28,10,2024-02-28,2024-07-28,48,HR
+ITEM1447,Routers,Logitech Routers 8759,Logitech,Branch-NY,Out of Stock,0,1529,0,7,68,31,2024-07-30,2023-06-09,48,Operations
+ITEM1448,Routers,Lenovo Routers 9278,Lenovo,Branch-LA,Under Repair,100,2037,203700,5,52,21,2024-09-18,2023-04-08,12,IT
+ITEM1449,Routers,ASUS Routers 4789,ASUS,Branch-LA,Out of Stock,0,1079,0,13,67,26,2024-10-31,2022-07-22,36,HR
+ITEM1450,Routers,Cisco Routers 4081,Cisco,Remote-Stock,Out of Stock,0,1440,0,18,26,24,2024-02-25,2024-03-30,24,Finance
+ITEM1451,Routers,Cisco Routers 6800,Cisco,Branch-Chicago,Under Repair,33,887,29271,6,46,23,2024-07-31,2024-01-18,48,HR
+ITEM1452,Routers,Microsoft Routers 6856,Microsoft,Branch-NY,In Transit,8,648,5184,15,23,7,2024-02-11,2023-04-18,12,IT
+ITEM1453,Routers,Logitech Routers 8296,Logitech,Branch-LA,Obsolete,85,687,58395,5,59,14,2024-07-23,2022-11-23,12,Sales
+ITEM1454,Routers,Dell Routers 2964,Dell,Remote-Stock,In Transit,2,402,804,13,34,16,2024-04-26,2024-08-25,12,Marketing
+ITEM1455,Routers,Logitech Routers 3567,Logitech,Branch-Seattle,Allocated,53,526,27878,6,41,10,2024-05-11,2022-11-24,48,Operations
+ITEM1456,Routers,Microsoft Routers 2330,Microsoft,Branch-NY,Out of Stock,0,1250,0,6,28,12,2024-03-16,2023-08-12,48,IT
+ITEM1457,Routers,Samsung Routers 1256,Samsung,Branch-Chicago,Obsolete,11,750,8250,21,26,9,2024-11-01,2022-09-30,36,Sales
+ITEM1458,Routers,Lenovo Routers 9844,Lenovo,Branch-NY,In Transit,28,271,7588,23,28,25,2024-04-19,2023-08-10,36,Finance
+ITEM1459,Routers,Cisco Routers 6677,Cisco,Branch-LA,Out of Stock,0,644,0,10,46,15,2024-10-07,2023-01-22,12,Finance
+ITEM1460,Routers,HP Routers 7828,HP,Remote-Stock,Allocated,10,443,4430,7,54,22,2024-03-25,2022-03-29,48,HR
+ITEM1461,Routers,Microsoft Routers 2275,Microsoft,Branch-Seattle,In Transit,43,1611,69273,21,61,6,2024-01-10,2022-05-10,36,Marketing
+ITEM1462,Routers,HP Routers 1834,HP,Branch-NY,Allocated,2,244,488,11,55,28,2024-01-31,2022-07-13,36,Marketing
+ITEM1463,Routers,Cisco Routers 1007,Cisco,Branch-Chicago,Allocated,90,439,39510,20,44,31,2024-06-16,2022-11-29,36,HR
+ITEM1464,Routers,ASUS Routers 7699,ASUS,Branch-NY,In Transit,96,1959,188064,16,28,24,2024-06-13,2023-08-12,36,Marketing
+ITEM1465,Routers,Logitech Routers 7813,Logitech,Remote-Stock,In Transit,82,1144,93808,14,21,17,2024-08-06,2022-07-18,24,HR
+ITEM1466,Routers,LG Routers 8863,LG,Branch-Seattle,In Transit,99,2049,202851,18,34,31,2024-02-20,2022-04-17,36,IT
+ITEM1467,Routers,Cisco Routers 4632,Cisco,Branch-Chicago,Out of Stock,0,1528,0,20,68,20,2024-10-15,2023-08-24,24,Operations
+ITEM1468,Routers,Dell Routers 6964,Dell,Branch-LA,In Stock,79,1897,149863,18,68,34,2024-10-17,2023-12-23,12,Engineering
+ITEM1469,Routers,ASUS Routers 1777,ASUS,HQ-Warehouse,In Stock,68,1901,129268,12,27,12,2024-09-18,2022-07-15,24,Engineering
+ITEM1470,Routers,HP Routers 9936,HP,Branch-Chicago,Obsolete,81,428,34668,5,35,10,2024-07-18,2022-06-01,48,Engineering
+ITEM1471,Routers,ASUS Routers 3155,ASUS,HQ-Warehouse,Under Repair,57,978,55746,21,32,5,2024-04-05,2023-12-10,12,Operations
+ITEM1472,Routers,HP Routers 7055,HP,Branch-NY,In Transit,1,1846,1846,17,40,22,2024-06-18,2022-07-06,12,Marketing
+ITEM1473,Routers,LG Routers 3777,LG,Branch-Seattle,In Transit,58,464,26912,12,55,19,2024-05-02,2022-05-16,48,HR
+ITEM1474,Routers,Lenovo Routers 8488,Lenovo,Branch-Chicago,Obsolete,5,738,3690,14,27,20,2024-05-30,2022-09-01,36,Sales
+ITEM1475,Routers,Samsung Routers 4805,Samsung,Branch-LA,Obsolete,78,1286,100308,16,39,29,2024-07-31,2022-04-15,12,Engineering
+ITEM1476,Routers,Dell Routers 5691,Dell,Branch-LA,Allocated,36,1554,55944,12,32,29,2024-01-16,2024-04-06,24,HR
+ITEM1477,Routers,Logitech Routers 3465,Logitech,Branch-Seattle,Under Repair,66,286,18876,11,27,26,2024-02-29,2023-02-28,24,Marketing
+ITEM1478,Routers,Microsoft Routers 4548,Microsoft,Branch-Chicago,In Transit,84,298,25032,7,43,6,2024-06-18,2022-06-15,12,Engineering
+ITEM1479,Routers,HP Routers 3517,HP,Branch-Seattle,Obsolete,61,1831,111691,21,35,9,2024-09-09,2022-02-08,24,Engineering
+ITEM1480,Routers,Logitech Routers 7323,Logitech,HQ-Warehouse,Under Repair,54,1745,94230,5,26,18,2024-08-13,2023-08-27,12,Marketing
+ITEM1481,Routers,Samsung Routers 9094,Samsung,HQ-Warehouse,In Transit,13,2088,27144,18,61,6,2024-08-31,2022-12-29,24,Sales
+ITEM1482,Routers,ASUS Routers 1597,ASUS,HQ-Warehouse,Out of Stock,0,1128,0,14,37,19,2024-03-24,2022-07-28,36,Finance
+ITEM1483,Routers,Microsoft Routers 2257,Microsoft,HQ-Warehouse,Allocated,9,298,2682,10,23,12,2024-08-09,2023-03-31,48,Engineering
+ITEM1484,Routers,Logitech Routers 4649,Logitech,Branch-NY,In Stock,66,1262,83292,6,28,7,2024-03-16,2023-03-11,24,HR
+ITEM1485,Routers,Cisco Routers 8910,Cisco,Branch-NY,Out of Stock,0,431,0,10,41,27,2024-03-06,2023-11-23,12,Engineering
+ITEM1486,Routers,Lenovo Routers 9499,Lenovo,Branch-NY,In Transit,53,925,49025,20,63,33,2024-05-22,2024-06-02,36,HR
+ITEM1487,Routers,ASUS Routers 3295,ASUS,Branch-Chicago,In Stock,20,914,18280,21,65,13,2024-08-11,2024-03-19,48,HR
+ITEM1488,Routers,Dell Routers 9513,Dell,HQ-Warehouse,In Transit,6,1211,7266,21,29,25,2024-05-01,2024-07-23,12,Engineering
+ITEM1489,Routers,Apple Routers 8872,Apple,Branch-LA,In Stock,84,1626,136584,24,29,21,2024-02-21,2023-10-10,24,Marketing
+ITEM1490,Routers,Apple Routers 1481,Apple,Branch-Seattle,Allocated,30,1993,59790,17,45,34,2024-08-19,2022-12-26,48,HR
+ITEM1491,Routers,Microsoft Routers 5987,Microsoft,HQ-Warehouse,Under Repair,79,1497,118263,7,67,14,2024-09-04,2024-04-13,36,Engineering
+ITEM1492,Routers,HP Routers 5552,HP,Branch-Chicago,Out of Stock,0,107,0,18,48,25,2024-10-26,2022-08-12,12,Sales
+ITEM1493,Routers,Lenovo Routers 7922,Lenovo,Branch-LA,Out of Stock,0,1069,0,16,43,7,2024-05-28,2024-02-21,36,Operations
+ITEM1494,Routers,Apple Routers 5255,Apple,Branch-LA,Under Repair,29,1027,29783,19,66,14,2024-08-01,2023-09-15,36,Sales
+ITEM1495,Routers,Cisco Routers 1911,Cisco,Branch-Seattle,Out of Stock,0,494,0,15,42,31,2024-09-21,2024-03-30,12,Finance
+ITEM1496,Routers,Microsoft Routers 4987,Microsoft,HQ-Warehouse,Obsolete,46,440,20240,7,63,28,2024-02-12,2022-09-16,24,HR
+ITEM1497,Routers,HP Routers 4928,HP,Remote-Stock,Out of Stock,0,1360,0,15,32,7,2024-04-05,2024-07-28,12,Engineering
+ITEM1498,Routers,HP Routers 1225,HP,Branch-LA,Allocated,38,1140,43320,14,62,26,2024-03-09,2024-03-24,48,Engineering
+ITEM1499,Routers,Lenovo Routers 5315,Lenovo,Branch-LA,In Transit,94,206,19364,23,20,15,2024-03-06,2022-09-19,12,Marketing
+ITEM1500,Routers,HP Routers 7109,HP,Branch-NY,Obsolete,74,1486,109964,10,53,29,2024-04-24,2023-09-25,24,Marketing
+ITEM1501,Routers,HP Routers 6186,HP,Branch-Seattle,In Transit,41,1864,76424,15,25,19,2024-08-28,2024-01-01,36,Marketing
+ITEM1502,Routers,Apple Routers 7381,Apple,Branch-NY,Obsolete,100,1935,193500,9,55,18,2024-03-07,2023-02-20,48,HR
+ITEM1503,Routers,ASUS Routers 3795,ASUS,HQ-Warehouse,In Transit,79,390,30810,5,68,8,2024-05-09,2022-07-27,12,Marketing
+ITEM1504,Routers,Lenovo Routers 3601,Lenovo,Branch-Chicago,Obsolete,61,754,45994,6,52,23,2024-01-06,2024-04-09,48,Finance
+ITEM1505,Routers,LG Routers 8394,LG,Branch-Seattle,In Stock,10,2019,20190,11,66,32,2024-09-11,2022-02-03,24,Operations
+ITEM1506,Routers,ASUS Routers 7275,ASUS,Branch-Seattle,In Transit,37,399,14763,7,20,31,2024-09-15,2024-05-08,36,HR
+ITEM1507,Routers,Lenovo Routers 9126,Lenovo,Branch-Chicago,Obsolete,3,834,2502,5,60,9,2024-04-10,2023-12-05,48,Engineering
+ITEM1508,Switches,Dell Switches 3807,Dell,HQ-Warehouse,In Stock,25,620,15500,11,59,34,2024-05-27,2022-02-22,12,IT
+ITEM1509,Switches,Apple Switches 1592,Apple,Remote-Stock,Out of Stock,0,1248,0,21,52,5,2024-03-21,2023-02-09,48,Marketing
+ITEM1510,Switches,ASUS Switches 4412,ASUS,HQ-Warehouse,Allocated,26,1632,42432,20,59,13,2024-04-03,2022-07-27,12,Sales
+ITEM1511,Switches,Apple Switches 1821,Apple,Branch-LA,Under Repair,93,216,20088,12,52,28,2024-01-28,2024-09-24,48,Operations
+ITEM1512,Switches,ASUS Switches 8692,ASUS,Branch-LA,Obsolete,2,882,1764,20,40,5,2024-02-09,2022-10-10,24,Marketing
+ITEM1513,Switches,Cisco Switches 6339,Cisco,Branch-NY,Obsolete,89,1898,168922,5,62,25,2024-01-15,2022-06-28,24,Operations
+ITEM1514,Switches,Apple Switches 4641,Apple,Branch-Chicago,In Stock,83,1854,153882,10,20,30,2024-02-19,2024-01-02,24,Operations
+ITEM1515,Switches,HP Switches 7793,HP,Branch-NY,Under Repair,89,1767,157263,14,22,5,2024-09-07,2023-01-06,24,Operations
+ITEM1516,Switches,ASUS Switches 6195,ASUS,Branch-NY,Out of Stock,0,1409,0,10,23,6,2024-08-15,2023-01-28,48,Engineering
+ITEM1517,Switches,Samsung Switches 8154,Samsung,Branch-Seattle,In Stock,23,371,8533,8,48,23,2024-03-26,2024-01-13,24,HR
+ITEM1518,Switches,Logitech Switches 4320,Logitech,Branch-Chicago,Under Repair,85,1690,143650,14,21,30,2024-10-03,2024-05-05,36,Sales
+ITEM1519,Switches,ASUS Switches 4927,ASUS,Branch-Chicago,In Transit,54,1806,97524,9,36,32,2024-08-05,2022-09-24,12,Engineering
+ITEM1520,Switches,Dell Switches 9519,Dell,Branch-NY,Under Repair,39,833,32487,23,35,23,2024-01-02,2023-03-12,48,Operations
+ITEM1521,Switches,Microsoft Switches 1085,Microsoft,Branch-Chicago,Obsolete,95,1895,180025,17,41,17,2024-03-10,2024-08-27,36,Operations
+ITEM1522,Switches,Logitech Switches 6825,Logitech,Remote-Stock,In Transit,41,740,30340,17,24,13,2024-09-09,2022-09-30,12,Marketing
+ITEM1523,Switches,Dell Switches 1017,Dell,Branch-LA,Under Repair,86,592,50912,13,31,23,2024-10-26,2023-02-23,12,Engineering
+ITEM1524,Switches,Microsoft Switches 1398,Microsoft,Branch-NY,Allocated,90,785,70650,10,45,24,2024-08-02,2023-02-24,48,Marketing
+ITEM1525,Switches,Dell Switches 3488,Dell,Branch-Chicago,Allocated,56,953,53368,11,32,10,2024-06-11,2024-03-27,48,Marketing
+ITEM1526,Switches,HP Switches 7874,HP,Branch-LA,Out of Stock,0,478,0,16,41,32,2024-08-07,2023-05-11,12,Engineering
+ITEM1527,Switches,Logitech Switches 4241,Logitech,Branch-Seattle,In Transit,42,793,33306,6,65,32,2024-04-03,2023-01-03,36,Finance
+ITEM1528,Switches,Lenovo Switches 1048,Lenovo,Remote-Stock,Out of Stock,0,1000,0,7,57,31,2024-02-15,2022-01-16,12,Operations
+ITEM1529,Switches,Logitech Switches 2045,Logitech,Branch-Seattle,Allocated,81,1656,134136,17,62,7,2024-02-26,2022-11-08,36,IT
+ITEM1530,Switches,Lenovo Switches 5951,Lenovo,Branch-Chicago,In Transit,43,630,27090,16,67,30,2024-04-12,2023-07-28,48,Operations
+ITEM1531,Switches,Logitech Switches 3496,Logitech,Branch-Chicago,In Stock,10,1381,13810,17,31,7,2024-08-08,2024-03-06,48,Sales
+ITEM1532,Switches,Cisco Switches 9477,Cisco,Branch-NY,Obsolete,57,1748,99636,17,57,7,2024-08-20,2022-07-20,36,Operations
+ITEM1533,Switches,Cisco Switches 1787,Cisco,Branch-Chicago,Obsolete,29,988,28652,7,56,8,2024-07-16,2022-05-11,36,Finance
+ITEM1534,Switches,Microsoft Switches 4030,Microsoft,Branch-Chicago,Allocated,16,600,9600,21,22,6,2024-02-26,2023-08-31,24,Engineering
+ITEM1535,Switches,Microsoft Switches 6113,Microsoft,HQ-Warehouse,Allocated,56,418,23408,23,33,32,2024-10-08,2023-05-19,36,Operations
+ITEM1536,Switches,Logitech Switches 5231,Logitech,HQ-Warehouse,Out of Stock,0,1480,0,20,30,16,2024-07-20,2023-05-24,12,Sales
+ITEM1537,Switches,LG Switches 9564,LG,Branch-Seattle,Under Repair,54,2044,110376,17,26,8,2024-07-06,2022-04-05,24,HR
+ITEM1538,Switches,Samsung Switches 7463,Samsung,Branch-LA,In Stock,24,1188,28512,11,43,15,2024-02-23,2023-01-23,48,Marketing
+ITEM1539,Switches,Apple Switches 8114,Apple,Branch-LA,Allocated,81,2017,163377,16,62,23,2024-02-28,2023-05-05,48,Sales
+ITEM1540,Switches,Samsung Switches 5531,Samsung,Branch-Seattle,In Stock,44,1795,78980,8,42,15,2024-02-23,2022-07-25,24,IT
+ITEM1541,Switches,Dell Switches 9693,Dell,HQ-Warehouse,In Transit,49,248,12152,13,37,17,2024-04-25,2022-09-30,12,Sales
+ITEM1542,Switches,LG Switches 4334,LG,Branch-Chicago,In Transit,24,698,16752,22,50,5,2024-03-19,2023-05-06,12,Marketing
+ITEM1543,Switches,LG Switches 3507,LG,Branch-LA,Under Repair,59,1359,80181,21,56,33,2024-08-07,2023-01-19,12,HR
+ITEM1544,Switches,Apple Switches 7820,Apple,Branch-Seattle,Under Repair,79,610,48190,6,60,27,2024-04-25,2024-01-06,12,Operations
+ITEM1545,Switches,Apple Switches 6842,Apple,Remote-Stock,Out of Stock,0,1898,0,21,52,32,2024-03-26,2023-02-04,48,HR
+ITEM1546,Switches,Samsung Switches 3518,Samsung,Branch-Chicago,Out of Stock,0,1798,0,13,26,27,2024-01-06,2022-01-01,12,Finance
+ITEM1547,Switches,HP Switches 6312,HP,HQ-Warehouse,Under Repair,79,224,17696,9,37,33,2024-10-04,2024-09-03,24,Sales
+ITEM1548,Switches,Samsung Switches 1300,Samsung,HQ-Warehouse,Under Repair,12,280,3360,12,59,6,2024-04-05,2024-08-14,24,Sales
+ITEM1549,Switches,HP Switches 7867,HP,Branch-LA,Obsolete,58,989,57362,18,37,31,2024-07-16,2022-01-23,12,HR
+ITEM1550,Switches,Dell Switches 1708,Dell,Branch-Seattle,Obsolete,22,496,10912,23,31,28,2024-10-01,2024-08-24,24,Finance
+ITEM1551,Switches,Logitech Switches 2848,Logitech,Branch-Chicago,Out of Stock,0,147,0,8,43,14,2024-02-04,2022-01-29,48,Operations
+ITEM1552,Switches,Dell Switches 9187,Dell,Branch-LA,Obsolete,7,494,3458,18,45,7,2024-03-06,2022-03-05,36,Operations
+ITEM1553,Switches,HP Switches 4004,HP,Branch-Seattle,In Transit,98,1592,156016,7,34,20,2024-04-17,2022-02-20,12,Sales
+ITEM1554,Switches,Apple Switches 9740,Apple,Branch-Chicago,In Transit,14,579,8106,15,62,24,2024-06-03,2024-05-06,12,HR
+ITEM1555,Switches,Logitech Switches 3680,Logitech,Branch-Chicago,Under Repair,96,1300,124800,9,49,17,2024-04-19,2024-05-29,36,IT
+ITEM1556,Switches,ASUS Switches 7723,ASUS,Branch-NY,Allocated,68,841,57188,19,61,14,2024-05-09,2022-10-01,24,Sales
+ITEM1557,Switches,Logitech Switches 5243,Logitech,Branch-LA,Obsolete,32,460,14720,10,28,25,2024-10-26,2023-12-16,36,Engineering
+ITEM1558,Switches,Samsung Switches 1098,Samsung,Branch-NY,In Stock,91,1350,122850,8,27,31,2024-02-01,2022-01-30,36,Marketing
+ITEM1559,Switches,Samsung Switches 4528,Samsung,Remote-Stock,Obsolete,81,217,17577,10,53,15,2024-05-27,2022-12-06,48,Sales
+ITEM1560,Switches,Samsung Switches 4981,Samsung,HQ-Warehouse,Out of Stock,0,337,0,16,20,23,2024-06-13,2023-07-16,12,HR
+ITEM1561,Switches,Microsoft Switches 3520,Microsoft,Branch-LA,Obsolete,66,1238,81708,10,45,24,2024-02-22,2023-10-10,48,Operations
+ITEM1562,Switches,ASUS Switches 2696,ASUS,Branch-Chicago,In Stock,8,1901,15208,6,64,21,2024-10-02,2023-11-16,36,HR
+ITEM1563,Switches,Dell Switches 8466,Dell,Branch-LA,Obsolete,83,1959,162597,23,63,22,2024-05-09,2023-03-13,48,Sales
+ITEM1564,Switches,LG Switches 6210,LG,HQ-Warehouse,Under Repair,59,496,29264,14,21,18,2024-06-12,2022-11-26,48,Finance
+ITEM1565,Switches,HP Switches 5200,HP,Branch-Chicago,Under Repair,24,1402,33648,19,37,16,2024-06-07,2023-06-18,36,Engineering
+ITEM1566,Switches,LG Switches 3015,LG,Remote-Stock,Obsolete,12,1218,14616,13,24,20,2024-08-21,2023-04-17,12,Finance
+ITEM1567,Switches,Microsoft Switches 6589,Microsoft,HQ-Warehouse,In Transit,43,818,35174,12,66,31,2024-01-11,2023-07-19,36,Operations
+ITEM1568,Switches,LG Switches 3159,LG,Branch-Seattle,In Transit,84,1523,127932,14,28,33,2024-07-05,2024-06-24,48,Engineering
+ITEM1569,Switches,ASUS Switches 3805,ASUS,Remote-Stock,Allocated,43,1454,62522,14,43,11,2024-10-24,2024-05-18,36,Engineering
+ITEM1570,Switches,ASUS Switches 3673,ASUS,Remote-Stock,In Transit,37,1935,71595,7,21,18,2024-05-22,2024-02-23,48,Engineering
+ITEM1571,Switches,Microsoft Switches 3730,Microsoft,HQ-Warehouse,Allocated,11,1074,11814,23,24,13,2024-01-31,2023-09-16,48,HR
+ITEM1572,Switches,Dell Switches 5994,Dell,Remote-Stock,In Stock,13,465,6045,18,53,6,2024-05-02,2022-06-17,48,Engineering
+ITEM1573,Switches,Samsung Switches 4585,Samsung,Branch-LA,Obsolete,96,1277,122592,5,29,20,2024-01-24,2024-03-18,36,Sales
+ITEM1574,Switches,ASUS Switches 6583,ASUS,HQ-Warehouse,Allocated,33,636,20988,20,30,20,2024-10-29,2022-02-07,36,IT
+ITEM1575,Switches,Cisco Switches 5816,Cisco,Remote-Stock,In Transit,29,1402,40658,16,48,20,2024-01-23,2024-04-30,12,HR
+ITEM1576,Servers,Dell Servers 4303,Dell,Branch-Chicago,Under Repair,80,1778,142240,23,67,16,2024-06-29,2024-06-30,12,Sales
+ITEM1577,Servers,Lenovo Servers 7197,Lenovo,Remote-Stock,Under Repair,52,1319,68588,17,59,26,2024-06-02,2024-07-09,12,Operations
+ITEM1578,Servers,Cisco Servers 1872,Cisco,Branch-LA,Out of Stock,0,951,0,19,66,34,2024-04-12,2024-08-09,24,Marketing
+ITEM1579,Servers,Cisco Servers 2211,Cisco,Branch-NY,In Stock,45,380,17100,22,57,8,2024-04-23,2024-07-12,24,IT
+ITEM1580,Servers,LG Servers 8151,LG,Branch-Chicago,In Stock,77,237,18249,15,49,17,2024-10-20,2024-02-05,36,HR
+ITEM1581,Servers,Apple Servers 9906,Apple,Branch-Chicago,In Stock,83,145,12035,9,55,25,2024-03-29,2022-05-01,36,Engineering
+ITEM1582,Servers,Apple Servers 6110,Apple,Branch-Seattle,Out of Stock,0,798,0,7,53,14,2024-07-21,2024-06-02,12,Sales
+ITEM1583,Servers,Microsoft Servers 5880,Microsoft,Branch-Seattle,Allocated,96,1736,166656,9,41,17,2024-08-03,2024-07-14,36,IT
+ITEM1584,Servers,Apple Servers 1836,Apple,Branch-Chicago,Under Repair,17,1169,19873,10,69,6,2024-10-14,2023-07-25,12,Operations
+ITEM1585,Servers,Samsung Servers 3535,Samsung,Remote-Stock,In Stock,20,1408,28160,10,62,12,2024-08-22,2023-09-29,12,Engineering
+ITEM1586,Servers,Dell Servers 7676,Dell,Remote-Stock,In Stock,96,1952,187392,23,47,13,2024-05-08,2024-02-06,12,Finance
+ITEM1587,Servers,Microsoft Servers 6515,Microsoft,Branch-Seattle,Under Repair,80,1530,122400,6,68,24,2024-05-28,2024-03-04,12,Sales
+ITEM1588,Servers,Microsoft Servers 3441,Microsoft,Branch-LA,Allocated,32,1468,46976,19,50,22,2024-09-10,2023-06-13,24,Finance
+ITEM1589,Servers,HP Servers 3009,HP,Branch-Seattle,Allocated,84,674,56616,11,26,31,2024-09-24,2024-05-21,36,Engineering
+ITEM1590,Servers,Apple Servers 4240,Apple,Branch-Seattle,In Transit,13,587,7631,9,20,13,2024-01-02,2024-09-22,24,Engineering
+ITEM1591,Servers,Dell Servers 2858,Dell,Remote-Stock,Allocated,99,566,56034,12,35,23,2024-10-07,2024-07-27,24,IT
+ITEM1592,Servers,ASUS Servers 3808,ASUS,Remote-Stock,Allocated,71,1829,129859,14,34,16,2024-03-04,2023-03-17,36,HR
+ITEM1593,Servers,Lenovo Servers 1095,Lenovo,Branch-LA,In Stock,2,619,1238,9,59,19,2024-07-13,2024-03-07,48,Operations
+ITEM1594,Servers,HP Servers 5468,HP,Branch-LA,Allocated,54,1834,99036,13,22,12,2024-05-09,2022-12-27,24,Operations
+ITEM1595,Servers,HP Servers 3760,HP,Branch-Seattle,In Transit,31,988,30628,21,34,12,2024-02-14,2022-08-16,48,Operations
+ITEM1596,Servers,Dell Servers 9061,Dell,HQ-Warehouse,Obsolete,89,561,49929,16,57,19,2024-08-03,2024-05-20,36,IT
+ITEM1597,Servers,Samsung Servers 8963,Samsung,Branch-LA,Out of Stock,0,420,0,9,22,20,2024-04-21,2022-10-24,36,IT
+ITEM1598,Servers,Samsung Servers 2684,Samsung,HQ-Warehouse,Under Repair,57,1521,86697,18,23,31,2024-03-08,2024-03-26,12,Finance
+ITEM1599,Servers,Lenovo Servers 7658,Lenovo,Branch-Seattle,In Stock,57,1304,74328,10,27,33,2024-05-07,2022-08-11,12,HR
+ITEM1600,Servers,LG Servers 1598,LG,HQ-Warehouse,Obsolete,88,584,51392,9,50,17,2024-03-10,2023-04-06,48,Marketing
+ITEM1601,Servers,Lenovo Servers 4150,Lenovo,HQ-Warehouse,Allocated,7,1021,7147,18,35,28,2024-01-24,2023-06-19,24,Sales
+ITEM1602,Servers,HP Servers 3679,HP,Branch-Chicago,Obsolete,11,433,4763,8,23,22,2024-08-23,2022-01-30,48,Marketing
+ITEM1603,Servers,Samsung Servers 5612,Samsung,HQ-Warehouse,In Stock,10,866,8660,17,61,16,2024-04-08,2023-07-08,24,Marketing
+ITEM1604,Servers,Lenovo Servers 4431,Lenovo,Branch-Chicago,In Transit,61,1834,111874,10,59,26,2024-09-25,2022-03-26,12,Marketing
+ITEM1605,Servers,Cisco Servers 1594,Cisco,Remote-Stock,Allocated,47,802,37694,10,53,19,2024-08-11,2024-07-30,12,Operations
+ITEM1606,Servers,Cisco Servers 8283,Cisco,Branch-LA,Out of Stock,0,1511,0,6,45,13,2024-08-01,2022-07-23,12,Operations
+ITEM1607,Servers,Apple Servers 3398,Apple,Branch-Seattle,In Transit,8,1680,13440,10,48,23,2024-08-14,2024-05-05,48,Sales
+ITEM1608,Servers,Cisco Servers 4206,Cisco,Branch-Chicago,Obsolete,18,331,5958,13,60,14,2024-08-31,2022-05-04,48,Operations
+ITEM1609,Servers,LG Servers 7048,LG,Branch-Chicago,In Transit,55,1665,91575,19,48,24,2024-05-13,2023-01-24,24,HR
+ITEM1610,Servers,Logitech Servers 4544,Logitech,Branch-Chicago,Allocated,22,1504,33088,16,28,29,2024-02-12,2024-06-02,12,IT
+ITEM1611,Servers,Dell Servers 1227,Dell,Branch-NY,In Stock,11,1221,13431,8,48,27,2024-03-22,2024-07-17,24,Engineering
+ITEM1612,Servers,Dell Servers 2930,Dell,Remote-Stock,Allocated,59,101,5959,15,32,28,2024-10-25,2023-12-17,12,HR
+ITEM1613,Servers,Microsoft Servers 3410,Microsoft,Branch-NY,Under Repair,2,1619,3238,17,43,30,2024-10-19,2024-03-22,48,Sales
+ITEM1614,Servers,Lenovo Servers 9476,Lenovo,Branch-Chicago,In Stock,15,990,14850,7,51,11,2024-10-01,2023-02-20,36,HR
+ITEM1615,Servers,LG Servers 9503,LG,Branch-LA,Under Repair,89,903,80367,13,25,20,2024-09-20,2023-09-29,48,Sales
+ITEM1616,Servers,Dell Servers 9773,Dell,Branch-Seattle,Out of Stock,0,1429,0,16,29,23,2024-10-31,2023-02-12,12,IT
+ITEM1617,Servers,Dell Servers 3590,Dell,Branch-Seattle,Allocated,68,1779,120972,8,63,23,2024-04-27,2022-03-23,36,HR
+ITEM1618,Servers,Microsoft Servers 8189,Microsoft,Branch-NY,Obsolete,31,903,27993,14,37,6,2024-08-11,2023-01-24,12,HR
+ITEM1619,Servers,HP Servers 7656,HP,HQ-Warehouse,Out of Stock,0,332,0,19,44,14,2024-10-17,2024-08-27,24,Operations
+ITEM1620,Printers,ASUS Printers 3237,ASUS,Branch-NY,In Transit,98,1041,102018,11,45,21,2024-08-06,2024-04-30,24,HR
+ITEM1621,Printers,Apple Printers 2004,Apple,Branch-NY,Obsolete,46,1821,83766,14,50,16,2024-08-16,2023-10-03,36,Marketing
+ITEM1622,Printers,Dell Printers 5159,Dell,Branch-LA,Allocated,81,1407,113967,21,30,18,2024-07-25,2023-07-27,48,Marketing
+ITEM1623,Printers,Logitech Printers 9856,Logitech,Branch-LA,In Stock,34,657,22338,7,58,31,2024-07-03,2023-01-01,12,Finance
+ITEM1624,Printers,LG Printers 2609,LG,Branch-NY,In Stock,9,2043,18387,17,67,12,2024-01-20,2024-03-01,48,Operations
+ITEM1625,Printers,ASUS Printers 6825,ASUS,Remote-Stock,In Stock,50,1808,90400,15,58,12,2024-08-04,2024-06-07,48,Engineering
+ITEM1626,Printers,Logitech Printers 3620,Logitech,Remote-Stock,Under Repair,81,1591,128871,21,25,13,2024-03-26,2023-04-13,36,Marketing
+ITEM1627,Printers,Cisco Printers 4601,Cisco,Branch-Chicago,Allocated,84,2089,175476,10,47,32,2024-02-04,2023-05-04,12,Operations
+ITEM1628,Printers,HP Printers 4622,HP,Remote-Stock,In Stock,84,1620,136080,6,65,31,2024-01-01,2022-01-28,24,Engineering
+ITEM1629,Printers,Microsoft Printers 1403,Microsoft,Branch-LA,Obsolete,20,2060,41200,20,57,22,2024-04-19,2022-12-17,24,Engineering
+ITEM1630,Printers,ASUS Printers 4150,ASUS,Branch-Chicago,In Stock,99,392,38808,24,47,33,2024-04-29,2022-08-07,12,Operations
+ITEM1631,Printers,Microsoft Printers 9963,Microsoft,Branch-Chicago,Under Repair,3,1809,5427,6,59,15,2024-08-23,2022-09-30,12,Marketing
+ITEM1632,Printers,Logitech Printers 6211,Logitech,Branch-LA,In Transit,73,990,72270,6,21,20,2024-04-28,2024-09-06,12,Operations
+ITEM1633,Printers,Samsung Printers 8499,Samsung,HQ-Warehouse,In Transit,43,144,6192,12,24,22,2024-08-07,2023-05-01,36,Marketing
+ITEM1634,Printers,Logitech Printers 8959,Logitech,HQ-Warehouse,In Transit,62,266,16492,14,41,32,2024-01-16,2023-08-16,12,Engineering
+ITEM1635,Printers,Samsung Printers 8539,Samsung,HQ-Warehouse,In Transit,82,1867,153094,18,48,26,2024-09-01,2022-04-17,48,Marketing
+ITEM1636,Printers,Microsoft Printers 6504,Microsoft,Branch-LA,Under Repair,16,145,2320,15,39,23,2024-03-28,2024-07-28,24,Sales
+ITEM1637,Printers,HP Printers 9506,HP,Remote-Stock,Under Repair,33,1571,51843,24,35,12,2024-01-30,2022-09-13,48,Operations
+ITEM1638,Printers,Samsung Printers 1402,Samsung,Branch-NY,Out of Stock,0,1368,0,19,43,8,2024-04-29,2024-07-11,24,Sales
+ITEM1639,Printers,Apple Printers 7301,Apple,Branch-LA,Under Repair,69,156,10764,7,49,27,2024-03-08,2023-12-05,48,HR
+ITEM1640,Printers,Apple Printers 1804,Apple,HQ-Warehouse,Out of Stock,0,270,0,8,60,20,2024-03-17,2022-03-19,12,Marketing
+ITEM1641,Printers,HP Printers 3464,HP,Branch-Chicago,In Transit,40,1843,73720,8,53,10,2024-03-14,2024-08-17,12,Marketing
+ITEM1642,Printers,Dell Printers 8051,Dell,Branch-NY,Under Repair,85,953,81005,18,64,32,2024-05-31,2023-11-21,48,Finance
+ITEM1643,Printers,HP Printers 6250,HP,Branch-Chicago,In Stock,8,480,3840,19,65,9,2024-07-19,2023-03-04,48,HR
+ITEM1644,Printers,Apple Printers 1559,Apple,Branch-Seattle,Allocated,17,909,15453,10,38,24,2024-03-14,2023-08-25,24,Operations
+ITEM1645,Printers,Apple Printers 8249,Apple,HQ-Warehouse,In Stock,49,1520,74480,19,45,7,2024-07-24,2023-01-23,12,Marketing
+ITEM1646,Printers,Samsung Printers 5367,Samsung,Branch-NY,Out of Stock,0,1925,0,24,60,5,2024-09-04,2022-03-04,48,IT
+ITEM1647,Printers,ASUS Printers 3888,ASUS,Branch-Seattle,Obsolete,49,1529,74921,7,36,30,2024-01-05,2022-08-20,36,Marketing
+ITEM1648,Printers,ASUS Printers 6669,ASUS,Branch-LA,Allocated,46,138,6348,6,52,16,2024-10-11,2024-07-15,24,IT
+ITEM1649,Printers,HP Printers 4485,HP,Branch-Chicago,Allocated,98,1016,99568,17,57,14,2024-06-07,2022-07-25,36,Finance
+ITEM1650,Printers,Logitech Printers 3242,Logitech,Branch-Seattle,Out of Stock,0,1712,0,11,50,12,2024-02-24,2022-11-18,48,Finance
+ITEM1651,Printers,Apple Printers 2558,Apple,Branch-Chicago,Obsolete,76,847,64372,8,64,19,2024-05-15,2023-10-11,48,IT
+ITEM1652,Printers,HP Printers 2118,HP,Branch-Seattle,Out of Stock,0,491,0,7,45,30,2024-09-14,2022-04-21,36,Operations
+ITEM1653,Printers,Lenovo Printers 2293,Lenovo,Branch-Chicago,In Transit,90,943,84870,19,37,9,2024-09-12,2022-11-23,48,Engineering
+ITEM1654,Printers,Cisco Printers 9679,Cisco,Branch-NY,Allocated,20,155,3100,11,24,17,2024-07-25,2022-10-15,36,Finance
+ITEM1655,Printers,Apple Printers 4684,Apple,Branch-NY,Allocated,3,102,306,18,27,23,2024-05-25,2023-07-24,12,HR
+ITEM1656,Printers,Samsung Printers 2532,Samsung,Branch-Seattle,Allocated,42,268,11256,12,34,30,2024-05-15,2024-07-29,36,HR
+ITEM1657,Printers,Apple Printers 7927,Apple,Branch-NY,Under Repair,57,441,25137,14,34,10,2024-10-10,2023-01-13,12,HR
+ITEM1658,Printers,Samsung Printers 7560,Samsung,Branch-LA,Out of Stock,0,405,0,12,35,15,2024-06-05,2024-05-22,48,Engineering
+ITEM1659,Printers,Microsoft Printers 2466,Microsoft,Remote-Stock,In Transit,57,482,27474,15,44,17,2024-05-25,2023-02-17,24,HR
+ITEM1660,Printers,Logitech Printers 9371,Logitech,Branch-LA,In Transit,32,532,17024,11,43,10,2024-09-04,2023-11-03,24,Marketing
+ITEM1661,Printers,Dell Printers 5817,Dell,Branch-NY,Allocated,84,749,62916,14,35,18,2024-08-26,2023-05-02,12,IT
+ITEM1662,Printers,Dell Printers 4805,Dell,Branch-LA,Obsolete,32,1838,58816,13,42,11,2024-02-22,2024-03-12,48,Sales
+ITEM1663,Printers,LG Printers 8654,LG,Branch-LA,Under Repair,39,1430,55770,10,47,11,2024-09-13,2022-12-31,24,Sales
+ITEM1664,Printers,LG Printers 5395,LG,Branch-Chicago,Out of Stock,0,1684,0,6,45,23,2024-02-24,2023-01-31,12,Finance
+ITEM1665,Printers,HP Printers 3564,HP,Branch-Seattle,Under Repair,38,785,29830,8,64,10,2024-07-01,2023-06-05,36,Marketing
+ITEM1666,Printers,Cisco Printers 3001,Cisco,Branch-Seattle,Allocated,78,333,25974,13,39,7,2024-03-14,2023-01-07,24,Engineering
+ITEM1667,Printers,HP Printers 6668,HP,Branch-LA,In Transit,54,901,48654,5,35,14,2024-04-30,2022-09-20,24,HR
+ITEM1668,Printers,Dell Printers 9893,Dell,Branch-Seattle,Allocated,37,734,27158,6,55,31,2024-07-20,2022-12-16,24,IT
+ITEM1669,Printers,LG Printers 1836,LG,Branch-Seattle,Under Repair,21,1984,41664,22,60,23,2024-07-08,2022-09-16,12,Operations
+ITEM1670,Printers,Cisco Printers 4507,Cisco,Branch-Seattle,Obsolete,84,326,27384,23,52,28,2024-04-26,2022-02-21,48,Finance
+ITEM1671,Printers,Apple Printers 8222,Apple,HQ-Warehouse,Under Repair,99,1527,151173,24,33,30,2024-09-17,2023-01-05,48,Engineering
+ITEM1672,Printers,Samsung Printers 7454,Samsung,Remote-Stock,In Transit,39,1183,46137,6,33,27,2024-10-04,2023-11-29,48,Engineering
+ITEM1673,Printers,Cisco Printers 5168,Cisco,Branch-Seattle,Obsolete,49,1605,78645,22,50,28,2024-05-01,2024-09-03,12,Operations
+ITEM1674,Printers,Apple Printers 9819,Apple,Branch-LA,Out of Stock,0,551,0,17,69,24,2024-07-19,2023-01-21,12,Sales
+ITEM1675,Printers,Apple Printers 8300,Apple,Branch-NY,In Stock,47,1580,74260,13,54,24,2024-01-09,2022-12-14,24,Operations
+ITEM1676,Printers,Dell Printers 1156,Dell,Branch-Chicago,Out of Stock,0,1211,0,20,20,16,2024-04-07,2022-08-14,36,Sales
+ITEM1677,Printers,Lenovo Printers 6560,Lenovo,Branch-Seattle,Under Repair,26,265,6890,8,31,33,2024-01-11,2024-04-24,48,Finance
+ITEM1678,Printers,Dell Printers 6253,Dell,Remote-Stock,In Transit,25,1659,41475,15,47,13,2024-07-20,2022-08-12,24,Engineering
+ITEM1679,Printers,Apple Printers 1284,Apple,Remote-Stock,Obsolete,89,1197,106533,14,58,8,2024-03-29,2022-05-08,24,Marketing
+ITEM1680,Printers,Lenovo Printers 3460,Lenovo,Remote-Stock,Allocated,5,391,1955,24,30,5,2024-06-05,2022-05-17,24,Marketing
+ITEM1681,Printers,Samsung Printers 1812,Samsung,Branch-NY,In Transit,18,125,2250,5,53,10,2024-07-26,2022-02-10,12,Engineering
+ITEM1682,Printers,Microsoft Printers 8284,Microsoft,Branch-Chicago,In Stock,85,320,27200,24,41,7,2024-06-19,2023-08-12,48,Engineering
